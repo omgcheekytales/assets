@@ -73,6 +73,10 @@ def main(src, out):
         if f.endswith(".svg") and f[:-4] not in icons:
             icons[f[:-4]] = svg_paths(os.path.join(leg, f))
     # 3) codigos
+    # U+FFFE y U+FFFF son "no caracteres": Chrome rechaza la fuente si se usa U+FFFF.
+    for n in [n for n, c in cps.items() if c >= 0xFFFF]:
+        print("AVISO: el icono", n, "usaba U+FFFF y se mueve a otro codigo")
+        del cps[n]
     used = set(cps.values())
     free = (c for c in range(FIRST_FREE, LAST_FREE + 1) if c not in used)
     for n in sorted(icons):
