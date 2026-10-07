@@ -413,14 +413,17 @@
 .game-icon-achilles-heel:before {
 	content: "\f083";
 }
+.game-icon-acid:before {
+	content: "\f086";
+}
 .game-icon-acid-blob:before {
 	content: "\f084";
 }
+.game-icon-acid-shield:before {
+	content: "\e039";
+}
 .game-icon-acid-tube:before {
 	content: "\f085";
-}
-.game-icon-acid:before {
-	content: "\f086";
 }
 .game-icon-acorn:before {
 	content: "\f087";
@@ -433,6 +436,9 @@
 }
 .game-icon-aerial-signal:before {
 	content: "\f08a";
+}
+.game-icon-aero-bike:before {
+	content: "\e03a";
 }
 .game-icon-aerodynamic-harpoon:before {
 	content: "\f08b";
@@ -464,14 +470,14 @@
 .game-icon-air-zigzag:before {
 	content: "\f094";
 }
+.game-icon-airplane:before {
+	content: "\f097";
+}
 .game-icon-airplane-arrival:before {
 	content: "\f095";
 }
 .game-icon-airplane-departure:before {
 	content: "\f096";
-}
-.game-icon-airplane:before {
-	content: "\f097";
 }
 .game-icon-airtight-hatch:before {
 	content: "\f098";
@@ -548,11 +554,11 @@
 .game-icon-ammo-box:before {
 	content: "\f0b0";
 }
-.game-icon-ammonite-fossil:before {
-	content: "\f0b1";
-}
 .game-icon-ammonite:before {
 	content: "\f0b2";
+}
+.game-icon-ammonite-fossil:before {
+	content: "\f0b1";
 }
 .game-icon-amphora:before {
 	content: "\f0b3";
@@ -650,11 +656,14 @@
 .game-icon-anubis:before {
 	content: "\f0d2";
 }
-.game-icon-anvil-impact:before {
-	content: "\f0d3";
-}
 .game-icon-anvil:before {
 	content: "\f0d4";
+}
+.game-icon-anvil-2:before {
+	content: "\e03b";
+}
+.game-icon-anvil-impact:before {
+	content: "\f0d3";
 }
 .game-icon-apc:before {
 	content: "\f0d5";
@@ -719,23 +728,26 @@
 .game-icon-aries:before {
 	content: "\f0e9";
 }
+.game-icon-arm:before {
+	content: "\f0ec";
+}
 .game-icon-arm-bandage:before {
 	content: "\f0ea";
 }
 .game-icon-arm-sling:before {
 	content: "\f0eb";
 }
-.game-icon-arm:before {
-	content: "\f0ec";
+.game-icon-armadillo:before {
+	content: "\f0ee";
 }
 .game-icon-armadillo-tail:before {
 	content: "\f0ed";
 }
-.game-icon-armadillo:before {
-	content: "\f0ee";
-}
 .game-icon-armchair:before {
 	content: "\f0ef";
+}
+.game-icon-armor-blueprint:before {
+	content: "\e03c";
 }
 .game-icon-armor-cuisses:before {
 	content: "\f0f0";
@@ -770,6 +782,9 @@
 .game-icon-arrow-cursor:before {
 	content: "\f0fa";
 }
+.game-icon-arrow-down:before {
+	content: "\e03d";
+}
 .game-icon-arrow-dunk:before {
 	content: "\f0fb";
 }
@@ -778,6 +793,9 @@
 }
 .game-icon-arrow-scope:before {
 	content: "\f0fd";
+}
+.game-icon-arrow-up:before {
+	content: "\e03e";
 }
 .game-icon-arrow-wings:before {
 	content: "\f0fe";
@@ -836,17 +854,20 @@
 .game-icon-atlas:before {
 	content: "\f110";
 }
-.game-icon-atom-core:before {
-	content: "\f111";
-}
 .game-icon-atom:before {
 	content: "\f112";
+}
+.game-icon-atom-core:before {
+	content: "\f111";
 }
 .game-icon-atomic-slashes:before {
 	content: "\f113";
 }
 .game-icon-attached-shield:before {
 	content: "\f114";
+}
+.game-icon-attack-gauge:before {
+	content: "\e03f";
 }
 .game-icon-aubergine:before {
 	content: "\f115";
@@ -977,11 +998,14 @@
 .game-icon-balloons:before {
 	content: "\f13f";
 }
+.game-icon-bamboo:before {
+	content: "\f141";
+}
 .game-icon-bamboo-fountain:before {
 	content: "\f140";
 }
-.game-icon-bamboo:before {
-	content: "\f141";
+.game-icon-banana:before {
+	content: "\f145";
 }
 .game-icon-banana-bunch:before {
 	content: "\f142";
@@ -991,9 +1015,6 @@
 }
 .game-icon-banana-peeled:before {
 	content: "\f144";
-}
-.game-icon-banana:before {
-	content: "\f145";
 }
 .game-icon-bandage-roll:before {
 	content: "\f146";
@@ -1058,23 +1079,23 @@
 .game-icon-barefoot:before {
 	content: "\f15a";
 }
-.game-icon-barn-owl:before {
-	content: "\f15b";
-}
 .game-icon-barn:before {
 	content: "\f15c";
 }
-.game-icon-barracks-tent:before {
-	content: "\f15d";
+.game-icon-barn-owl:before {
+	content: "\f15b";
 }
 .game-icon-barracks:before {
 	content: "\f15e";
 }
-.game-icon-barrel-leak:before {
-	content: "\f15f";
+.game-icon-barracks-tent:before {
+	content: "\f15d";
 }
 .game-icon-barrel:before {
 	content: "\f160";
+}
+.game-icon-barrel-leak:before {
+	content: "\f15f";
 }
 .game-icon-barricade:before {
 	content: "\f161";
@@ -1112,6 +1133,9 @@
 .game-icon-bastet:before {
 	content: "\f16c";
 }
+.game-icon-bat:before {
+	content: "\f172";
+}
 .game-icon-bat-2:before {
 	content: "\f16d";
 }
@@ -1126,9 +1150,6 @@
 }
 .game-icon-bat-wing:before {
 	content: "\f171";
-}
-.game-icon-bat:before {
-	content: "\f172";
 }
 .game-icon-bathtub:before {
 	content: "\f173";
@@ -1160,11 +1181,11 @@
 .game-icon-battery-minus:before {
 	content: "\f17c";
 }
-.game-icon-battery-pack-alt:before {
-	content: "\f17d";
-}
 .game-icon-battery-pack:before {
 	content: "\f17e";
+}
+.game-icon-battery-pack-alt:before {
+	content: "\f17d";
 }
 .game-icon-battery-plus:before {
 	content: "\f17f";
@@ -1226,11 +1247,11 @@
 .game-icon-beaver:before {
 	content: "\f192";
 }
-.game-icon-bed-lamp:before {
-	content: "\f193";
-}
 .game-icon-bed:before {
 	content: "\f194";
+}
+.game-icon-bed-lamp:before {
+	content: "\f193";
 }
 .game-icon-bee:before {
 	content: "\f195";
@@ -1271,14 +1292,14 @@
 .game-icon-bellows:before {
 	content: "\f1a1";
 }
+.game-icon-belt:before {
+	content: "\f1a4";
+}
 .game-icon-belt-armor:before {
 	content: "\f1a2";
 }
 .game-icon-belt-buckles:before {
 	content: "\f1a3";
-}
-.game-icon-belt:before {
-	content: "\f1a4";
 }
 .game-icon-berries-bowl:before {
 	content: "\f1a5";
@@ -1339,6 +1360,9 @@
 }
 .game-icon-bird-mask:before {
 	content: "\f1b8";
+}
+.game-icon-bird-scepter:before {
+	content: "\e040";
 }
 .game-icon-bird-twitter:before {
 	content: "\f1b9";
@@ -1436,14 +1460,14 @@
 .game-icon-bo:before {
 	content: "\f1d8";
 }
+.game-icon-boar:before {
+	content: "\f1db";
+}
 .game-icon-boar-ensign:before {
 	content: "\f1d9";
 }
 .game-icon-boar-tusks:before {
 	content: "\f1da";
-}
-.game-icon-boar:before {
-	content: "\f1db";
 }
 .game-icon-boarding-pass:before {
 	content: "\f1dc";
@@ -1462,6 +1486,9 @@
 }
 .game-icon-boba:before {
 	content: "\f1e1";
+}
+.game-icon-body:before {
+	content: "\e042";
 }
 .game-icon-body-balance:before {
 	content: "\f1e2";
@@ -1483,6 +1510,9 @@
 }
 .game-icon-bolivia:before {
 	content: "\f1e8";
+}
+.game-icon-bolt:before {
+	content: "\e043";
 }
 .game-icon-bolt-bomb:before {
 	content: "\f1e9";
@@ -1517,11 +1547,11 @@
 .game-icon-bone-gnawer:before {
 	content: "\f1f3";
 }
-.game-icon-bone-knife-2:before {
-	content: "\f1f4";
-}
 .game-icon-bone-knife:before {
 	content: "\f1f5";
+}
+.game-icon-bone-knife-2:before {
+	content: "\f1f4";
 }
 .game-icon-bone-mace:before {
 	content: "\f1f6";
@@ -1532,11 +1562,11 @@
 .game-icon-book-aura:before {
 	content: "\f1f8";
 }
-.game-icon-book-cover-2:before {
-	content: "\f1f9";
-}
 .game-icon-book-cover:before {
 	content: "\f1fa";
+}
+.game-icon-book-cover-2:before {
+	content: "\f1f9";
 }
 .game-icon-book-pile:before {
 	content: "\f1fb";
@@ -1556,14 +1586,14 @@
 .game-icon-boombox:before {
 	content: "\f200";
 }
+.game-icon-boomerang:before {
+	content: "\f203";
+}
 .game-icon-boomerang-cross:before {
 	content: "\f201";
 }
 .game-icon-boomerang-sun:before {
 	content: "\f202";
-}
-.game-icon-boomerang:before {
-	content: "\f203";
 }
 .game-icon-boot-kick:before {
 	content: "\f204";
@@ -1616,11 +1646,11 @@
 .game-icon-bow-string:before {
 	content: "\f214";
 }
-.game-icon-bow-tie-ribbon:before {
-	content: "\f215";
-}
 .game-icon-bow-tie:before {
 	content: "\f216";
+}
+.game-icon-bow-tie-ribbon:before {
+	content: "\f215";
 }
 .game-icon-bowels:before {
 	content: "\f217";
@@ -1628,11 +1658,11 @@
 .game-icon-bowen-knot:before {
 	content: "\f218";
 }
-.game-icon-bowie-knife-2:before {
-	content: "\f219";
-}
 .game-icon-bowie-knife:before {
 	content: "\f21a";
+}
+.game-icon-bowie-knife-2:before {
+	content: "\f219";
 }
 .game-icon-bowl-of-rice:before {
 	content: "\f21b";
@@ -1664,11 +1694,11 @@
 .game-icon-box-unpacking:before {
 	content: "\f224";
 }
-.game-icon-boxing-glove-surprise:before {
-	content: "\f225";
-}
 .game-icon-boxing-glove:before {
 	content: "\f226";
+}
+.game-icon-boxing-glove-surprise:before {
+	content: "\f225";
 }
 .game-icon-boxing-ring:before {
 	content: "\f227";
@@ -1678,6 +1708,9 @@
 }
 .game-icon-bracers:before {
 	content: "\f229";
+}
+.game-icon-brain:before {
+	content: "\f22f";
 }
 .game-icon-brain-dump:before {
 	content: "\f22a";
@@ -1693,9 +1726,6 @@
 }
 .game-icon-brain-tentacle:before {
 	content: "\f22e";
-}
-.game-icon-brain:before {
-	content: "\f22f";
 }
 .game-icon-brainstorm:before {
 	content: "\f230";
@@ -1715,17 +1745,17 @@
 .game-icon-brass-knuckles:before {
 	content: "\f235";
 }
-.game-icon-brazil-flag:before {
-	content: "\f236";
-}
 .game-icon-brazil:before {
 	content: "\f237";
 }
-.game-icon-bread-slice:before {
-	content: "\f238";
+.game-icon-brazil-flag:before {
+	content: "\f236";
 }
 .game-icon-bread:before {
 	content: "\f239";
+}
+.game-icon-bread-slice:before {
+	content: "\f238";
 }
 .game-icon-breaking-chain:before {
 	content: "\f23a";
@@ -1775,11 +1805,11 @@
 .game-icon-broken-bottle:before {
 	content: "\f249";
 }
-.game-icon-broken-heart-zone:before {
-	content: "\f24a";
-}
 .game-icon-broken-heart:before {
 	content: "\f24b";
+}
+.game-icon-broken-heart-zone:before {
+	content: "\f24a";
 }
 .game-icon-broken-pottery:before {
 	content: "\f24c";
@@ -1838,17 +1868,20 @@
 .game-icon-bugle-call:before {
 	content: "\f25e";
 }
+.game-icon-building:before {
+	content: "\e044";
+}
 .game-icon-bulb:before {
 	content: "\f25f";
 }
 .game-icon-bulgaria:before {
 	content: "\f260";
 }
-.game-icon-bull-horns:before {
-	content: "\f261";
-}
 .game-icon-bull:before {
 	content: "\f262";
+}
+.game-icon-bull-horns:before {
+	content: "\f261";
 }
 .game-icon-bulldozer:before {
 	content: "\f263";
@@ -1874,11 +1907,11 @@
 .game-icon-bunk-beds:before {
 	content: "\f26a";
 }
-.game-icon-bunker-assault:before {
-	content: "\f26b";
-}
 .game-icon-bunker:before {
 	content: "\f26c";
+}
+.game-icon-bunker-assault:before {
+	content: "\f26b";
 }
 .game-icon-bunny-slippers:before {
 	content: "\f26d";
@@ -1925,35 +1958,35 @@
 .game-icon-burst-blob:before {
 	content: "\f27b";
 }
+.game-icon-bus:before {
+	content: "\f27e";
+}
 .game-icon-bus-doors:before {
 	content: "\f27c";
 }
 .game-icon-bus-stop:before {
 	content: "\f27d";
 }
-.game-icon-bus:before {
-	content: "\f27e";
+.game-icon-butter:before {
+	content: "\f280";
 }
 .game-icon-butter-toast:before {
 	content: "\f27f";
 }
-.game-icon-butter:before {
-	content: "\f280";
+.game-icon-butterfly:before {
+	content: "\f285";
 }
 .game-icon-butterfly-flower:before {
 	content: "\f281";
 }
-.game-icon-butterfly-knife-2:before {
-	content: "\f282";
-}
 .game-icon-butterfly-knife:before {
 	content: "\f283";
 }
+.game-icon-butterfly-knife-2:before {
+	content: "\f282";
+}
 .game-icon-butterfly-warning:before {
 	content: "\f284";
-}
-.game-icon-butterfly:before {
-	content: "\f285";
 }
 .game-icon-button-finger:before {
 	content: "\f286";
@@ -1973,14 +2006,14 @@
 .game-icon-cable-stayed-bridge:before {
 	content: "\f28b";
 }
+.game-icon-cactus:before {
+	content: "\f28e";
+}
 .game-icon-cactus-pot:before {
 	content: "\f28c";
 }
 .game-icon-cactus-tap:before {
 	content: "\f28d";
-}
-.game-icon-cactus:before {
-	content: "\f28e";
 }
 .game-icon-cadillac-helm:before {
 	content: "\f28f";
@@ -2009,11 +2042,11 @@
 .game-icon-caldera:before {
 	content: "\f297";
 }
-.game-icon-calendar-half-year:before {
-	content: "\f298";
-}
 .game-icon-calendar:before {
 	content: "\f299";
+}
+.game-icon-calendar-half-year:before {
+	content: "\f298";
 }
 .game-icon-caltrops:before {
 	content: "\f29a";
@@ -2024,11 +2057,11 @@
 .game-icon-cambodia:before {
 	content: "\f29c";
 }
-.game-icon-camel-head:before {
-	content: "\f29d";
-}
 .game-icon-camel:before {
 	content: "\f29e";
+}
+.game-icon-camel-head:before {
+	content: "\f29d";
 }
 .game-icon-camp-cooking-pot:before {
 	content: "\f29f";
@@ -2078,14 +2111,14 @@
 .game-icon-cannister:before {
 	content: "\f2ae";
 }
+.game-icon-cannon:before {
+	content: "\f2b1";
+}
 .game-icon-cannon-ball:before {
 	content: "\f2af";
 }
 .game-icon-cannon-shot:before {
 	content: "\f2b0";
-}
-.game-icon-cannon:before {
-	content: "\f2b1";
 }
 .game-icon-canoe:before {
 	content: "\f2b2";
@@ -2093,11 +2126,11 @@
 .game-icon-cantua:before {
 	content: "\f2b3";
 }
-.game-icon-cape-armor:before {
-	content: "\f2b4";
-}
 .game-icon-cape:before {
 	content: "\f2b5";
+}
+.game-icon-cape-armor:before {
+	content: "\f2b4";
 }
 .game-icon-capitol:before {
 	content: "\f2b6";
@@ -2321,11 +2354,11 @@
 .game-icon-card-random:before {
 	content: "\f2ff";
 }
-.game-icon-cardboard-box-closed:before {
-	content: "\f300";
-}
 .game-icon-cardboard-box:before {
 	content: "\f301";
+}
+.game-icon-cardboard-box-closed:before {
+	content: "\f300";
 }
 .game-icon-cargo-crane:before {
 	content: "\f302";
@@ -2375,14 +2408,14 @@
 .game-icon-cassowary-head:before {
 	content: "\f311";
 }
+.game-icon-castle:before {
+	content: "\f314";
+}
 .game-icon-castle-2:before {
 	content: "\f312";
 }
 .game-icon-castle-ruins:before {
 	content: "\f313";
-}
-.game-icon-castle:before {
-	content: "\f314";
 }
 .game-icon-cat:before {
 	content: "\f315";
@@ -2396,11 +2429,11 @@
 .game-icon-caterpillar:before {
 	content: "\f318";
 }
-.game-icon-cauldron-2:before {
-	content: "\f319";
-}
 .game-icon-cauldron:before {
 	content: "\f31a";
+}
+.game-icon-cauldron-2:before {
+	content: "\f319";
 }
 .game-icon-cavalry:before {
 	content: "\f31b";
@@ -2429,11 +2462,11 @@
 .game-icon-cement-shoes:before {
 	content: "\f323";
 }
-.game-icon-centaur-heart:before {
-	content: "\f324";
-}
 .game-icon-centaur:before {
 	content: "\f325";
+}
+.game-icon-centaur-heart:before {
+	content: "\f324";
 }
 .game-icon-centipede:before {
 	content: "\f326";
@@ -2492,11 +2525,11 @@
 .game-icon-charged-arrow:before {
 	content: "\f338";
 }
-.game-icon-charging-bull:before {
-	content: "\f339";
-}
 .game-icon-charging:before {
 	content: "\f33a";
+}
+.game-icon-charging-bull:before {
+	content: "\f339";
 }
 .game-icon-chariot:before {
 	content: "\f33b";
@@ -2576,11 +2609,11 @@
 .game-icon-chess-rook:before {
 	content: "\f354";
 }
-.game-icon-chest-armor:before {
-	content: "\f355";
-}
 .game-icon-chest:before {
 	content: "\f356";
+}
+.game-icon-chest-armor:before {
+	content: "\f355";
 }
 .game-icon-chestnut-leaf:before {
 	content: "\f357";
@@ -2591,14 +2624,14 @@
 .game-icon-chewed-skull:before {
 	content: "\f359";
 }
+.game-icon-chicken:before {
+	content: "\f35c";
+}
 .game-icon-chicken-leg:before {
 	content: "\f35a";
 }
 .game-icon-chicken-oven:before {
 	content: "\f35b";
-}
-.game-icon-chicken:before {
-	content: "\f35c";
 }
 .game-icon-chili-pepper:before {
 	content: "\f35d";
@@ -2636,6 +2669,9 @@
 .game-icon-cigarette:before {
 	content: "\f368";
 }
+.game-icon-circle:before {
+	content: "\f36d";
+}
 .game-icon-circle-cage:before {
 	content: "\f369";
 }
@@ -2647,9 +2683,6 @@
 }
 .game-icon-circle-sparks:before {
 	content: "\f36c";
-}
-.game-icon-circle:before {
-	content: "\f36d";
 }
 .game-icon-circling-fish:before {
 	content: "\f36e";
@@ -2678,6 +2711,9 @@
 .game-icon-classical-knowledge:before {
 	content: "\f376";
 }
+.game-icon-claw:before {
+	content: "\f37a";
+}
 .game-icon-claw-hammer:before {
 	content: "\f377";
 }
@@ -2686,9 +2722,6 @@
 }
 .game-icon-claw-string:before {
 	content: "\f379";
-}
-.game-icon-claw:before {
-	content: "\f37a";
 }
 .game-icon-claws:before {
 	content: "\f37b";
@@ -2711,11 +2744,11 @@
 .game-icon-cliff-crossing:before {
 	content: "\f381";
 }
-.game-icon-cloak-dagger:before {
-	content: "\f382";
-}
 .game-icon-cloak:before {
 	content: "\f383";
+}
+.game-icon-cloak-dagger:before {
+	content: "\f382";
 }
 .game-icon-cloaked-figure-on-horseback:before {
 	content: "\f384";
@@ -2747,6 +2780,9 @@
 .game-icon-clothespin:before {
 	content: "\f38d";
 }
+.game-icon-cloud:before {
+	content: "\e045";
+}
 .game-icon-cloud-download:before {
 	content: "\f38e";
 }
@@ -2762,20 +2798,23 @@
 .game-icon-clout:before {
 	content: "\f392";
 }
+.game-icon-clover:before {
+	content: "\f395";
+}
 .game-icon-clover-2:before {
 	content: "\f393";
 }
 .game-icon-clover-spiked:before {
 	content: "\f394";
 }
-.game-icon-clover:before {
-	content: "\f395";
-}
 .game-icon-clown:before {
 	content: "\f396";
 }
 .game-icon-clownfish:before {
 	content: "\f397";
+}
+.game-icon-club:before {
+	content: "\e046";
 }
 .game-icon-clubs:before {
 	content: "\f398";
@@ -2792,11 +2831,11 @@
 .game-icon-coal-wagon:before {
 	content: "\f39c";
 }
-.game-icon-cobra-2:before {
-	content: "\f39d";
-}
 .game-icon-cobra:before {
 	content: "\f39e";
+}
+.game-icon-cobra-2:before {
+	content: "\f39d";
 }
 .game-icon-cobweb:before {
 	content: "\f39f";
@@ -2819,11 +2858,14 @@
 .game-icon-coffin:before {
 	content: "\f3a5";
 }
-.game-icon-cog-lock:before {
-	content: "\f3a6";
-}
 .game-icon-cog:before {
 	content: "\f3a7";
+}
+.game-icon-cog-2:before {
+	content: "\e047";
+}
+.game-icon-cog-lock:before {
+	content: "\f3a6";
 }
 .game-icon-cogsplosion:before {
 	content: "\f3a8";
@@ -2837,11 +2879,14 @@
 .game-icon-coinflip:before {
 	content: "\f3ab";
 }
-.game-icon-coins-pile:before {
-	content: "\f3ac";
-}
 .game-icon-coins:before {
 	content: "\f3ad";
+}
+.game-icon-coins-2:before {
+	content: "\e048";
+}
+.game-icon-coins-pile:before {
+	content: "\f3ac";
 }
 .game-icon-cold-heart:before {
 	content: "\f3ae";
@@ -2999,6 +3044,9 @@
 .game-icon-corporal:before {
 	content: "\f3e1";
 }
+.game-icon-corporal-2:before {
+	content: "\e049";
+}
 .game-icon-corset:before {
 	content: "\f3e2";
 }
@@ -3026,17 +3074,17 @@
 .game-icon-cowled:before {
 	content: "\f3ea";
 }
-.game-icon-cpu-shot:before {
-	content: "\f3eb";
-}
 .game-icon-cpu:before {
 	content: "\f3ec";
 }
-.game-icon-crab-claw:before {
-	content: "\f3ed";
+.game-icon-cpu-shot:before {
+	content: "\f3eb";
 }
 .game-icon-crab:before {
 	content: "\f3ee";
+}
+.game-icon-crab-claw:before {
+	content: "\f3ed";
 }
 .game-icon-cracked-alien-skull:before {
 	content: "\f3ef";
@@ -3080,11 +3128,11 @@
 .game-icon-crenulated-shield:before {
 	content: "\f3fc";
 }
-.game-icon-crescent-blade-2:before {
-	content: "\f3fd";
-}
 .game-icon-crescent-blade:before {
 	content: "\f3fe";
+}
+.game-icon-crescent-blade-2:before {
+	content: "\f3fd";
 }
 .game-icon-crescent-staff:before {
 	content: "\f3ff";
@@ -3092,11 +3140,11 @@
 .game-icon-crested-helmet:before {
 	content: "\f400";
 }
-.game-icon-cricket-bat:before {
-	content: "\f401";
-}
 .game-icon-cricket:before {
 	content: "\f402";
+}
+.game-icon-cricket-bat:before {
+	content: "\f401";
 }
 .game-icon-crime-scene-tape:before {
 	content: "\f403";
@@ -3158,11 +3206,14 @@
 .game-icon-crossed-swords:before {
 	content: "\f416";
 }
-.game-icon-crosshair-arrow:before {
-	content: "\f417";
-}
 .game-icon-crosshair:before {
 	content: "\f418";
+}
+.game-icon-crosshair-2:before {
+	content: "\e04a";
+}
+.game-icon-crosshair-arrow:before {
+	content: "\f417";
 }
 .game-icon-crossroad:before {
 	content: "\f419";
@@ -3176,14 +3227,17 @@
 .game-icon-crowbar:before {
 	content: "\f41c";
 }
+.game-icon-crown:before {
+	content: "\f41f";
+}
+.game-icon-crown-2:before {
+	content: "\e04b";
+}
 .game-icon-crown-coin:before {
 	content: "\f41d";
 }
 .game-icon-crown-of-thorns:before {
 	content: "\f41e";
-}
-.game-icon-crown:before {
-	content: "\f41f";
 }
 .game-icon-crowned-explosion:before {
 	content: "\f420";
@@ -3257,11 +3311,11 @@
 .game-icon-cuckoo-clock:before {
 	content: "\f437";
 }
-.game-icon-cultist-2:before {
-	content: "\f438";
-}
 .game-icon-cultist:before {
 	content: "\f439";
+}
+.game-icon-cultist-2:before {
+	content: "\f438";
 }
 .game-icon-cupcake:before {
 	content: "\f43a";
@@ -3401,14 +3455,14 @@
 .game-icon-decapitation:before {
 	content: "\f467";
 }
+.game-icon-deer:before {
+	content: "\f46a";
+}
 .game-icon-deer-head:before {
 	content: "\f468";
 }
 .game-icon-deer-track:before {
 	content: "\f469";
-}
-.game-icon-deer:before {
-	content: "\f46a";
 }
 .game-icon-defense-satellite:before {
 	content: "\f46b";
@@ -3437,6 +3491,9 @@
 .game-icon-dervish-swords:before {
 	content: "\f473";
 }
+.game-icon-desert:before {
+	content: "\f477";
+}
 .game-icon-desert-camp:before {
 	content: "\f474";
 }
@@ -3446,17 +3503,14 @@
 .game-icon-desert-skull:before {
 	content: "\f476";
 }
-.game-icon-desert:before {
-	content: "\f477";
-}
 .game-icon-deshret-red-crown:before {
 	content: "\f478";
 }
-.game-icon-desk-lamp:before {
-	content: "\f479";
-}
 .game-icon-desk:before {
 	content: "\f47a";
+}
+.game-icon-desk-lamp:before {
+	content: "\f479";
 }
 .game-icon-despair:before {
 	content: "\f47b";
@@ -3482,6 +3536,9 @@
 .game-icon-dial-padlock:before {
 	content: "\f482";
 }
+.game-icon-diamond:before {
+	content: "\e04c";
+}
 .game-icon-diamond-hard:before {
 	content: "\f483";
 }
@@ -3494,11 +3551,11 @@
 .game-icon-diamond-trophy:before {
 	content: "\f486";
 }
-.game-icon-diamonds-smile:before {
-	content: "\f487";
-}
 .game-icon-diamonds:before {
 	content: "\f488";
+}
+.game-icon-diamonds-smile:before {
+	content: "\f487";
 }
 .game-icon-dice-eight-faces-eight:before {
 	content: "\f489";
@@ -3575,14 +3632,14 @@
 .game-icon-direwolf:before {
 	content: "\f4a1";
 }
+.game-icon-disc:before {
+	content: "\f4a4";
+}
 .game-icon-disc-golf-bag:before {
 	content: "\f4a2";
 }
 .game-icon-disc-golf-basket:before {
 	content: "\f4a3";
-}
-.game-icon-disc:before {
-	content: "\f4a4";
 }
 .game-icon-discobolus:before {
 	content: "\f4a5";
@@ -3593,11 +3650,11 @@
 .game-icon-disintegrate:before {
 	content: "\f4a7";
 }
-.game-icon-distraction-2:before {
-	content: "\f4a8";
-}
 .game-icon-distraction:before {
 	content: "\f4a9";
+}
+.game-icon-distraction-2:before {
+	content: "\f4a8";
 }
 .game-icon-distress-signal:before {
 	content: "\f4aa";
@@ -3674,6 +3731,9 @@
 .game-icon-donut:before {
 	content: "\f4c2";
 }
+.game-icon-door:before {
+	content: "\f4c6";
+}
 .game-icon-door-handle:before {
 	content: "\f4c3";
 }
@@ -3682,9 +3742,6 @@
 }
 .game-icon-door-watcher:before {
 	content: "\f4c5";
-}
-.game-icon-door:before {
-	content: "\f4c6";
 }
 .game-icon-doorway:before {
 	content: "\f4c7";
@@ -3737,11 +3794,11 @@
 .game-icon-dragon-breath:before {
 	content: "\f4d7";
 }
-.game-icon-dragon-head-2:before {
-	content: "\f4d8";
-}
 .game-icon-dragon-head:before {
 	content: "\f4d9";
+}
+.game-icon-dragon-head-2:before {
+	content: "\f4d8";
 }
 .game-icon-dragon-orb:before {
 	content: "\f4da";
@@ -3755,11 +3812,11 @@
 .game-icon-dragonfly:before {
 	content: "\f4dd";
 }
-.game-icon-drakkar-dragon:before {
-	content: "\f4de";
-}
 .game-icon-drakkar:before {
 	content: "\f4df";
+}
+.game-icon-drakkar-dragon:before {
+	content: "\f4de";
 }
 .game-icon-drama-masks:before {
 	content: "\f4e0";
@@ -3767,11 +3824,11 @@
 .game-icon-drawbridge:before {
 	content: "\f4e1";
 }
-.game-icon-dread-skull:before {
-	content: "\f4e2";
-}
 .game-icon-dread:before {
 	content: "\f4e3";
+}
+.game-icon-dread-skull:before {
+	content: "\f4e2";
 }
 .game-icon-dreadnought:before {
 	content: "\f4e4";
@@ -3782,11 +3839,11 @@
 .game-icon-dress:before {
 	content: "\f4e6";
 }
-.game-icon-drill-2:before {
-	content: "\f4e7";
-}
 .game-icon-drill:before {
 	content: "\f4e8";
+}
+.game-icon-drill-2:before {
+	content: "\f4e7";
 }
 .game-icon-drink-me:before {
 	content: "\f4e9";
@@ -3818,14 +3875,14 @@
 .game-icon-dripping-tube:before {
 	content: "\f4f2";
 }
+.game-icon-drop:before {
+	content: "\f4f5";
+}
 .game-icon-drop-earrings:before {
 	content: "\f4f3";
 }
 .game-icon-drop-weapon:before {
 	content: "\f4f4";
-}
-.game-icon-drop:before {
-	content: "\f4f5";
 }
 .game-icon-droplet-splash:before {
 	content: "\f4f6";
@@ -3836,23 +3893,23 @@
 .game-icon-drowning:before {
 	content: "\f4f8";
 }
-.game-icon-drum-kit:before {
-	content: "\f4f9";
-}
 .game-icon-drum:before {
 	content: "\f4fa";
 }
-.game-icon-duality-mask:before {
-	content: "\f4fb";
+.game-icon-drum-kit:before {
+	content: "\f4f9";
 }
 .game-icon-duality:before {
 	content: "\f4fc";
 }
-.game-icon-duck-palm:before {
-	content: "\f4fd";
+.game-icon-duality-mask:before {
+	content: "\f4fb";
 }
 .game-icon-duck:before {
 	content: "\f4fe";
+}
+.game-icon-duck-palm:before {
+	content: "\f4fd";
 }
 .game-icon-duel:before {
 	content: "\f4ff";
@@ -3860,11 +3917,11 @@
 .game-icon-duffel-bag:before {
 	content: "\f500";
 }
-.game-icon-dumpling-bao:before {
-	content: "\f501";
-}
 .game-icon-dumpling:before {
 	content: "\f502";
+}
+.game-icon-dumpling-bao:before {
+	content: "\f501";
 }
 .game-icon-dunce-cap:before {
 	content: "\f503";
@@ -3938,23 +3995,23 @@
 .game-icon-easter-egg:before {
 	content: "\f51a";
 }
-.game-icon-eating-pelican:before {
-	content: "\f51b";
-}
 .game-icon-eating:before {
 	content: "\f51c";
 }
+.game-icon-eating-pelican:before {
+	content: "\f51b";
+}
 .game-icon-echo-ripples:before {
 	content: "\f51d";
+}
+.game-icon-eclipse:before {
+	content: "\f520";
 }
 .game-icon-eclipse-flare:before {
 	content: "\f51e";
 }
 .game-icon-eclipse-saw:before {
 	content: "\f51f";
-}
-.game-icon-eclipse:before {
-	content: "\f520";
 }
 .game-icon-ecology:before {
 	content: "\f521";
@@ -4013,11 +4070,11 @@
 .game-icon-elderberry:before {
 	content: "\f533";
 }
-.game-icon-electric-whip:before {
-	content: "\f534";
-}
 .game-icon-electric:before {
 	content: "\f535";
+}
+.game-icon-electric-whip:before {
+	content: "\f534";
 }
 .game-icon-electrical-crescent:before {
 	content: "\f536";
@@ -4028,11 +4085,11 @@
 .game-icon-electrical-socket:before {
 	content: "\f538";
 }
-.game-icon-elephant-head:before {
-	content: "\f539";
-}
 .game-icon-elephant:before {
 	content: "\f53a";
+}
+.game-icon-elephant-head:before {
+	content: "\f539";
 }
 .game-icon-elevator:before {
 	content: "\f53b";
@@ -4058,11 +4115,11 @@
 .game-icon-embryo:before {
 	content: "\f542";
 }
-.game-icon-emerald-necklace:before {
-	content: "\f543";
-}
 .game-icon-emerald:before {
 	content: "\f544";
+}
+.game-icon-emerald-necklace:before {
+	content: "\f543";
 }
 .game-icon-empty-chessboard:before {
 	content: "\f545";
@@ -4070,20 +4127,23 @@
 .game-icon-empty-hourglass:before {
 	content: "\f546";
 }
-.game-icon-empty-metal-bucket-handle:before {
-	content: "\f547";
-}
 .game-icon-empty-metal-bucket:before {
 	content: "\f548";
 }
-.game-icon-empty-wood-bucket-handle:before {
-	content: "\f549";
+.game-icon-empty-metal-bucket-handle:before {
+	content: "\f547";
 }
 .game-icon-empty-wood-bucket:before {
 	content: "\f54a";
 }
+.game-icon-empty-wood-bucket-handle:before {
+	content: "\f549";
+}
 .game-icon-encirclement:before {
 	content: "\f54b";
+}
+.game-icon-encrypted-channel:before {
+	content: "\e04d";
 }
 .game-icon-energise:before {
 	content: "\f54c";
@@ -4187,6 +4247,9 @@
 .game-icon-evil-wings:before {
 	content: "\f56d";
 }
+.game-icon-exclamation:before {
+	content: "\e04e";
+}
 .game-icon-executioner-hood:before {
 	content: "\f56e";
 }
@@ -4223,8 +4286,14 @@
 .game-icon-extra-time:before {
 	content: "\f579";
 }
+.game-icon-extra-vision:before {
+	content: "\e04f";
+}
 .game-icon-extraction-orb:before {
 	content: "\f57a";
+}
+.game-icon-eye:before {
+	content: "\e050";
 }
 .game-icon-eye-of-horus:before {
 	content: "\f57b";
@@ -4259,11 +4328,14 @@
 .game-icon-face-to-face:before {
 	content: "\f585";
 }
+.game-icon-factory:before {
+	content: "\f587";
+}
 .game-icon-factory-arm:before {
 	content: "\f586";
 }
-.game-icon-factory:before {
-	content: "\f587";
+.game-icon-fairy:before {
+	content: "\f58b";
 }
 .game-icon-fairy-2:before {
 	content: "\f588";
@@ -4274,14 +4346,14 @@
 .game-icon-fairy-wings:before {
 	content: "\f58a";
 }
-.game-icon-fairy:before {
-	content: "\f58b";
-}
 .game-icon-falcon-moon:before {
 	content: "\f58c";
 }
 .game-icon-fall-down:before {
 	content: "\f58d";
+}
+.game-icon-falling:before {
+	content: "\f596";
 }
 .game-icon-falling-blob:before {
 	content: "\f58e";
@@ -4307,9 +4379,6 @@
 .game-icon-falling-star:before {
 	content: "\f595";
 }
-.game-icon-falling:before {
-	content: "\f596";
-}
 .game-icon-fallout-shelter:before {
 	content: "\f597";
 }
@@ -4325,11 +4394,11 @@
 .game-icon-fanged-skull:before {
 	content: "\f59b";
 }
-.game-icon-fangs-circle:before {
-	content: "\f59c";
-}
 .game-icon-fangs:before {
 	content: "\f59d";
+}
+.game-icon-fangs-circle:before {
+	content: "\f59c";
 }
 .game-icon-farm-tractor:before {
 	content: "\f59e";
@@ -4352,14 +4421,14 @@
 .game-icon-fat:before {
 	content: "\f5a4";
 }
+.game-icon-feather:before {
+	content: "\f5a7";
+}
 .game-icon-feather-necklace:before {
 	content: "\f5a5";
 }
 .game-icon-feather-wound:before {
 	content: "\f5a6";
-}
-.game-icon-feather:before {
-	content: "\f5a7";
 }
 .game-icon-feathered-wing:before {
 	content: "\f5a8";
@@ -4370,14 +4439,14 @@
 .game-icon-feline:before {
 	content: "\f5aa";
 }
+.game-icon-female:before {
+	content: "\f5ad";
+}
 .game-icon-female-legs:before {
 	content: "\f5ab";
 }
 .game-icon-female-vampire:before {
 	content: "\f5ac";
-}
-.game-icon-female:before {
-	content: "\f5ad";
 }
 .game-icon-fencer:before {
 	content: "\f5ae";
@@ -4394,11 +4463,11 @@
 .game-icon-fez:before {
 	content: "\f5b2";
 }
-.game-icon-field-gun:before {
-	content: "\f5b3";
-}
 .game-icon-field:before {
 	content: "\f5b4";
+}
+.game-icon-field-gun:before {
+	content: "\f5b3";
 }
 .game-icon-figurehead:before {
 	content: "\f5b5";
@@ -4429,6 +4498,12 @@
 }
 .game-icon-finish-line:before {
 	content: "\f5be";
+}
+.game-icon-fire:before {
+	content: "\f5d4";
+}
+.game-icon-fire-2:before {
+	content: "\e051";
 }
 .game-icon-fire-ace:before {
 	content: "\f5bf";
@@ -4493,9 +4568,6 @@
 .game-icon-fire-zone:before {
 	content: "\f5d3";
 }
-.game-icon-fire:before {
-	content: "\f5d4";
-}
 .game-icon-fireball:before {
 	content: "\f5d5";
 }
@@ -4544,6 +4616,9 @@
 .game-icon-fishhook-fork:before {
 	content: "\f5e4";
 }
+.game-icon-fishing:before {
+	content: "\f5ec";
+}
 .game-icon-fishing-boat:before {
 	content: "\f5e5";
 }
@@ -4565,17 +4640,14 @@
 .game-icon-fishing-spoon:before {
 	content: "\f5eb";
 }
-.game-icon-fishing:before {
-	content: "\f5ec";
-}
 .game-icon-fission:before {
 	content: "\f5ed";
 }
-.game-icon-fist-2:before {
-	content: "\f5ee";
-}
 .game-icon-fist:before {
 	content: "\f5ef";
+}
+.game-icon-fist-2:before {
+	content: "\f5ee";
 }
 .game-icon-fizzing-flask:before {
 	content: "\f5f0";
@@ -4589,6 +4661,9 @@
 .game-icon-flake:before {
 	content: "\f5f3";
 }
+.game-icon-flame:before {
+	content: "\f5f7";
+}
 .game-icon-flame-claws:before {
 	content: "\f5f4";
 }
@@ -4598,20 +4673,17 @@
 .game-icon-flame-tunnel:before {
 	content: "\f5f6";
 }
-.game-icon-flame:before {
-	content: "\f5f7";
-}
 .game-icon-flamed-leaf:before {
 	content: "\f5f8";
 }
 .game-icon-flamer:before {
 	content: "\f5f9";
 }
-.game-icon-flamethrower-soldier:before {
-	content: "\f5fa";
-}
 .game-icon-flamethrower:before {
 	content: "\f5fb";
+}
+.game-icon-flamethrower-soldier:before {
+	content: "\f5fa";
 }
 .game-icon-flaming-arrow:before {
 	content: "\f5fc";
@@ -4637,6 +4709,9 @@
 .game-icon-flashlight:before {
 	content: "\f603";
 }
+.game-icon-flask:before {
+	content: "\e052";
+}
 .game-icon-flat-hammer:before {
 	content: "\f604";
 }
@@ -4652,11 +4727,11 @@
 .game-icon-flat-tire:before {
 	content: "\f608";
 }
-.game-icon-flatbed-covered:before {
-	content: "\f609";
-}
 .game-icon-flatbed:before {
 	content: "\f60a";
+}
+.game-icon-flatbed-covered:before {
+	content: "\f609";
 }
 .game-icon-flatfish:before {
 	content: "\f60b";
@@ -4778,11 +4853,11 @@
 .game-icon-focused-lightning:before {
 	content: "\f632";
 }
-.game-icon-fog-light:before {
-	content: "\f633";
-}
 .game-icon-fog:before {
 	content: "\f634";
+}
+.game-icon-fog-light:before {
+	content: "\f633";
 }
 .game-icon-folded-paper:before {
 	content: "\f635";
@@ -4814,14 +4889,14 @@
 .game-icon-forearm:before {
 	content: "\f63e";
 }
+.game-icon-forest:before {
+	content: "\f641";
+}
 .game-icon-forest-camp:before {
 	content: "\f63f";
 }
 .game-icon-forest-entrance:before {
 	content: "\f640";
-}
-.game-icon-forest:before {
-	content: "\f641";
 }
 .game-icon-fork-knife-spoon:before {
 	content: "\f642";
@@ -4841,20 +4916,20 @@
 .game-icon-foundry-bucket:before {
 	content: "\f647";
 }
+.game-icon-fountain:before {
+	content: "\f649";
+}
 .game-icon-fountain-pen:before {
 	content: "\f648";
 }
-.game-icon-fountain:before {
-	content: "\f649";
+.game-icon-fox:before {
+	content: "\f64c";
 }
 .game-icon-fox-head:before {
 	content: "\f64a";
 }
 .game-icon-fox-tail:before {
 	content: "\f64b";
-}
-.game-icon-fox:before {
-	content: "\f64c";
 }
 .game-icon-fragmented-meteor:before {
 	content: "\f64d";
@@ -4901,6 +4976,9 @@
 .game-icon-froe-and-mallet:before {
 	content: "\f65b";
 }
+.game-icon-frog:before {
+	content: "\f65f";
+}
 .game-icon-frog-foot:before {
 	content: "\f65c";
 }
@@ -4909,9 +4987,6 @@
 }
 .game-icon-frog-prince:before {
 	content: "\f65e";
-}
-.game-icon-frog:before {
-	content: "\f65f";
 }
 .game-icon-front-teeth:before {
 	content: "\f660";
@@ -4958,11 +5033,11 @@
 .game-icon-full-folder:before {
 	content: "\f66e";
 }
-.game-icon-full-metal-bucket-handle:before {
-	content: "\f66f";
-}
 .game-icon-full-metal-bucket:before {
 	content: "\f670";
+}
+.game-icon-full-metal-bucket-handle:before {
+	content: "\f66f";
 }
 .game-icon-full-motorcycle-helmet:before {
 	content: "\f671";
@@ -4970,11 +5045,11 @@
 .game-icon-full-pizza:before {
 	content: "\f672";
 }
-.game-icon-full-wood-bucket-handle:before {
-	content: "\f673";
-}
 .game-icon-full-wood-bucket:before {
 	content: "\f674";
+}
+.game-icon-full-wood-bucket-handle:before {
+	content: "\f673";
 }
 .game-icon-funnel:before {
 	content: "\f675";
@@ -5006,11 +5081,11 @@
 .game-icon-game-console:before {
 	content: "\f67e";
 }
-.game-icon-gamepad-cross:before {
-	content: "\f67f";
-}
 .game-icon-gamepad:before {
 	content: "\f680";
+}
+.game-icon-gamepad-cross:before {
+	content: "\f67f";
 }
 .game-icon-gardening-shears:before {
 	content: "\f681";
@@ -5021,11 +5096,11 @@
 .game-icon-garlic:before {
 	content: "\f683";
 }
-.game-icon-gas-mask-2:before {
-	content: "\f684";
-}
 .game-icon-gas-mask:before {
 	content: "\f685";
+}
+.game-icon-gas-mask-2:before {
+	content: "\f684";
 }
 .game-icon-gas-pump:before {
 	content: "\f686";
@@ -5051,11 +5126,11 @@
 .game-icon-gear-hammer:before {
 	content: "\f68d";
 }
-.game-icon-gear-stick-pattern:before {
-	content: "\f68e";
-}
 .game-icon-gear-stick:before {
 	content: "\f68f";
+}
+.game-icon-gear-stick-pattern:before {
+	content: "\f68e";
 }
 .game-icon-gears:before {
 	content: "\f690";
@@ -5078,17 +5153,17 @@
 .game-icon-gems:before {
 	content: "\f696";
 }
-.game-icon-ghost-ally:before {
-	content: "\f697";
-}
 .game-icon-ghost:before {
 	content: "\f698";
 }
-.game-icon-giant-squid:before {
-	content: "\f699";
+.game-icon-ghost-ally:before {
+	content: "\f697";
 }
 .game-icon-giant:before {
 	content: "\f69a";
+}
+.game-icon-giant-squid:before {
+	content: "\f699";
 }
 .game-icon-gibbet:before {
 	content: "\f69b";
@@ -5126,11 +5201,11 @@
 .game-icon-glider:before {
 	content: "\f6a6";
 }
-.game-icon-globe-ring:before {
-	content: "\f6a7";
-}
 .game-icon-globe:before {
 	content: "\f6a8";
+}
+.game-icon-globe-ring:before {
+	content: "\f6a7";
 }
 .game-icon-glock:before {
 	content: "\f6a9";
@@ -5159,14 +5234,14 @@
 .game-icon-goat:before {
 	content: "\f6b1";
 }
+.game-icon-goblin:before {
+	content: "\f6b4";
+}
 .game-icon-goblin-camp:before {
 	content: "\f6b2";
 }
 .game-icon-goblin-head:before {
 	content: "\f6b3";
-}
-.game-icon-goblin:before {
-	content: "\f6b4";
 }
 .game-icon-gold-bar:before {
 	content: "\f6b5";
@@ -5240,11 +5315,11 @@
 .game-icon-graduate-cap:before {
 	content: "\f6cc";
 }
-.game-icon-grain-bundle:before {
-	content: "\f6cd";
-}
 .game-icon-grain:before {
 	content: "\f6ce";
+}
+.game-icon-grain-bundle:before {
+	content: "\f6cd";
 }
 .game-icon-granary:before {
 	content: "\f6cf";
@@ -5264,11 +5339,11 @@
 .game-icon-grasping-slug:before {
 	content: "\f6d4";
 }
-.game-icon-grass-mushroom:before {
-	content: "\f6d5";
-}
 .game-icon-grass:before {
 	content: "\f6d6";
+}
+.game-icon-grass-mushroom:before {
+	content: "\f6d5";
 }
 .game-icon-grave-flowers:before {
 	content: "\f6d7";
@@ -5303,11 +5378,11 @@
 .game-icon-greenhouse:before {
 	content: "\f6e1";
 }
-.game-icon-grenade-2:before {
-	content: "\f6e2";
-}
 .game-icon-grenade:before {
 	content: "\f6e3";
+}
+.game-icon-grenade-2:before {
+	content: "\f6e2";
 }
 .game-icon-griffin-shield:before {
 	content: "\f6e4";
@@ -5342,14 +5417,14 @@
 .game-icon-guillotine:before {
 	content: "\f6ee";
 }
+.game-icon-guitar:before {
+	content: "\f6f1";
+}
 .game-icon-guitar-bass-head:before {
 	content: "\f6ef";
 }
 .game-icon-guitar-head:before {
 	content: "\f6f0";
-}
-.game-icon-guitar:before {
-	content: "\f6f1";
 }
 .game-icon-gun-rose:before {
 	content: "\f6f2";
@@ -5378,11 +5453,11 @@
 .game-icon-hair-strands:before {
 	content: "\f6fa";
 }
-.game-icon-halberd-shuriken:before {
-	content: "\f6fb";
-}
 .game-icon-halberd:before {
 	content: "\f6fc";
+}
+.game-icon-halberd-shuriken:before {
+	content: "\f6fb";
 }
 .game-icon-half-body-crawling:before {
 	content: "\f6fd";
@@ -5405,11 +5480,11 @@
 .game-icon-ham-shank:before {
 	content: "\f703";
 }
-.game-icon-hamburger-menu:before {
-	content: "\f704";
-}
 .game-icon-hamburger:before {
 	content: "\f705";
+}
+.game-icon-hamburger-menu:before {
+	content: "\f704";
 }
 .game-icon-hammer-break:before {
 	content: "\f706";
@@ -5422,6 +5497,9 @@
 }
 .game-icon-hammer-sickle:before {
 	content: "\f709";
+}
+.game-icon-hand:before {
+	content: "\f713";
 }
 .game-icon-hand-2:before {
 	content: "\f70a";
@@ -5450,9 +5528,6 @@
 .game-icon-hand-wing:before {
 	content: "\f712";
 }
-.game-icon-hand:before {
-	content: "\f713";
-}
 .game-icon-handcuffed:before {
 	content: "\f714";
 }
@@ -5462,11 +5537,11 @@
 .game-icon-handheld-fan:before {
 	content: "\f716";
 }
-.game-icon-hang-glider-2:before {
-	content: "\f717";
-}
 .game-icon-hang-glider:before {
 	content: "\f718";
+}
+.game-icon-hang-glider-2:before {
+	content: "\f717";
 }
 .game-icon-hanger:before {
 	content: "\f719";
@@ -5476,6 +5551,9 @@
 }
 .game-icon-hanging-spider:before {
 	content: "\f71b";
+}
+.game-icon-happy:before {
+	content: "\e053";
 }
 .game-icon-happy-skull:before {
 	content: "\f71c";
@@ -5528,17 +5606,17 @@
 .game-icon-headphones:before {
 	content: "\f72c";
 }
-.game-icon-headshot-2:before {
-	content: "\f72d";
-}
 .game-icon-headshot:before {
 	content: "\f72e";
 }
-.game-icon-healing-shield:before {
-	content: "\f72f";
+.game-icon-headshot-2:before {
+	content: "\f72d";
 }
 .game-icon-healing:before {
 	content: "\f730";
+}
+.game-icon-healing-shield:before {
+	content: "\f72f";
 }
 .game-icon-health-capsule:before {
 	content: "\f731";
@@ -5557,6 +5635,9 @@
 }
 .game-icon-hearing-disabled:before {
 	content: "\f736";
+}
+.game-icon-heart:before {
+	content: "\e054";
 }
 .game-icon-heart-armor:before {
 	content: "\f737";
@@ -5657,20 +5738,20 @@
 .game-icon-helicoprion:before {
 	content: "\f757";
 }
-.game-icon-helicopter-tail:before {
-	content: "\f758";
-}
 .game-icon-helicopter:before {
 	content: "\f759";
+}
+.game-icon-helicopter-tail:before {
+	content: "\f758";
 }
 .game-icon-hell-crosses:before {
 	content: "\f75a";
 }
-.game-icon-helmet-head-shot:before {
-	content: "\f75b";
-}
 .game-icon-helmet:before {
 	content: "\f75c";
+}
+.game-icon-helmet-head-shot:before {
+	content: "\f75b";
 }
 .game-icon-help:before {
 	content: "\f75d";
@@ -5744,11 +5825,11 @@
 .game-icon-histogram:before {
 	content: "\f774";
 }
-.game-icon-hive-mind:before {
-	content: "\f775";
-}
 .game-icon-hive:before {
 	content: "\f776";
+}
+.game-icon-hive-mind:before {
+	content: "\f775";
 }
 .game-icon-hobbit-door:before {
 	content: "\f777";
@@ -5759,11 +5840,11 @@
 .game-icon-hockey:before {
 	content: "\f779";
 }
-.game-icon-hole-ladder:before {
-	content: "\f77a";
-}
 .game-icon-hole:before {
 	content: "\f77b";
+}
+.game-icon-hole-ladder:before {
+	content: "\f77a";
 }
 .game-icon-hollow-cat:before {
 	content: "\f77c";
@@ -5813,11 +5894,11 @@
 .game-icon-hoof:before {
 	content: "\f78b";
 }
-.game-icon-hook-swords:before {
-	content: "\f78c";
-}
 .game-icon-hook:before {
 	content: "\f78d";
+}
+.game-icon-hook-swords:before {
+	content: "\f78c";
 }
 .game-icon-hops:before {
 	content: "\f78e";
@@ -5840,11 +5921,11 @@
 .game-icon-horned-skull:before {
 	content: "\f794";
 }
-.game-icon-horse-head-2:before {
-	content: "\f795";
-}
 .game-icon-horse-head:before {
 	content: "\f796";
+}
+.game-icon-horse-head-2:before {
+	content: "\f795";
 }
 .game-icon-horseshoe:before {
 	content: "\f797";
@@ -5852,11 +5933,11 @@
 .game-icon-horus:before {
 	content: "\f798";
 }
-.game-icon-hospital-cross:before {
-	content: "\f799";
-}
 .game-icon-hospital:before {
 	content: "\f79a";
+}
+.game-icon-hospital-cross:before {
+	content: "\f799";
 }
 .game-icon-hot-dog:before {
 	content: "\f79b";
@@ -5876,11 +5957,11 @@
 .game-icon-hourglass:before {
 	content: "\f7a0";
 }
-.game-icon-house-keys:before {
-	content: "\f7a1";
-}
 .game-icon-house:before {
 	content: "\f7a2";
+}
+.game-icon-house-keys:before {
+	content: "\f7a1";
 }
 .game-icon-human-cannonball:before {
 	content: "\f7a3";
@@ -5915,11 +5996,11 @@
 .game-icon-huts-village:before {
 	content: "\f7ad";
 }
-.game-icon-hydra-shot:before {
-	content: "\f7ae";
-}
 .game-icon-hydra:before {
 	content: "\f7af";
+}
+.game-icon-hydra-shot:before {
+	content: "\f7ae";
 }
 .game-icon-hyena-head:before {
 	content: "\f7b0";
@@ -5944,6 +6025,9 @@
 }
 .game-icon-icarus:before {
 	content: "\f7b7";
+}
+.game-icon-ice:before {
+	content: "\e055";
 }
 .game-icon-ice-bolt:before {
 	content: "\f7b8";
@@ -6014,11 +6098,11 @@
 .game-icon-imbricated-arrows:before {
 	content: "\f7ce";
 }
-.game-icon-imp-laugh:before {
-	content: "\f7cf";
-}
 .game-icon-imp:before {
 	content: "\f7d0";
+}
+.game-icon-imp-laugh:before {
+	content: "\f7cf";
 }
 .game-icon-impact-point:before {
 	content: "\f7d1";
@@ -6125,11 +6209,11 @@
 .game-icon-inverted-dice-6:before {
 	content: "\f7f3";
 }
-.game-icon-invisible-face:before {
-	content: "\f7f4";
-}
 .game-icon-invisible:before {
 	content: "\f7f5";
+}
+.game-icon-invisible-face:before {
+	content: "\f7f4";
 }
 .game-icon-ion-cannon-blast:before {
 	content: "\f7f6";
@@ -6185,17 +6269,17 @@
 .game-icon-jawless-cyclop:before {
 	content: "\f807";
 }
-.game-icon-jeep-2:before {
-	content: "\f808";
-}
 .game-icon-jeep:before {
 	content: "\f809";
 }
-.game-icon-jelly-beans:before {
-	content: "\f80a";
+.game-icon-jeep-2:before {
+	content: "\f808";
 }
 .game-icon-jelly:before {
 	content: "\f80b";
+}
+.game-icon-jelly-beans:before {
+	content: "\f80a";
 }
 .game-icon-jellyfish:before {
 	content: "\f80c";
@@ -6269,6 +6353,9 @@
 .game-icon-jupiter:before {
 	content: "\f823";
 }
+.game-icon-justice:before {
+	content: "\e056";
+}
 .game-icon-justice-star:before {
 	content: "\f824";
 }
@@ -6293,11 +6380,14 @@
 .game-icon-ketchup:before {
 	content: "\f82b";
 }
+.game-icon-kevlar:before {
+	content: "\f82d";
+}
 .game-icon-kevlar-vest:before {
 	content: "\f82c";
 }
-.game-icon-kevlar:before {
-	content: "\f82d";
+.game-icon-key:before {
+	content: "\f831";
 }
 .game-icon-key-2:before {
 	content: "\f82e";
@@ -6307,9 +6397,6 @@
 }
 .game-icon-key-lock:before {
 	content: "\f830";
-}
-.game-icon-key:before {
-	content: "\f831";
 }
 .game-icon-keyboard:before {
 	content: "\f832";
@@ -6332,11 +6419,11 @@
 .game-icon-kindle:before {
 	content: "\f838";
 }
-.game-icon-king-ju-mask:before {
-	content: "\f839";
-}
 .game-icon-king:before {
 	content: "\f83a";
+}
+.game-icon-king-ju-mask:before {
+	content: "\f839";
 }
 .game-icon-kitchen-knives:before {
 	content: "\f83b";
@@ -6437,11 +6524,11 @@
 .game-icon-land-mine:before {
 	content: "\f85b";
 }
-.game-icon-lantern-flame:before {
-	content: "\f85c";
-}
 .game-icon-lantern:before {
 	content: "\f85d";
+}
+.game-icon-lantern-flame:before {
+	content: "\f85c";
 }
 .game-icon-laptop:before {
 	content: "\f85e";
@@ -6488,11 +6575,11 @@
 .game-icon-laurel-crown:before {
 	content: "\f86c";
 }
-.game-icon-laurels-trophy:before {
-	content: "\f86d";
-}
 .game-icon-laurels:before {
 	content: "\f86e";
+}
+.game-icon-laurels-trophy:before {
+	content: "\f86d";
 }
 .game-icon-lava:before {
 	content: "\f86f";
@@ -6505,6 +6592,9 @@
 }
 .game-icon-lead-pipe:before {
 	content: "\f872";
+}
+.game-icon-leaf:before {
+	content: "\e057";
 }
 .game-icon-leaf-skeleton:before {
 	content: "\f873";
@@ -6542,11 +6632,11 @@
 .game-icon-leek:before {
 	content: "\f87e";
 }
-.game-icon-leg-armor:before {
-	content: "\f87f";
-}
 .game-icon-leg:before {
 	content: "\f880";
+}
+.game-icon-leg-armor:before {
+	content: "\f87f";
 }
 .game-icon-lemon:before {
 	content: "\f881";
@@ -6563,23 +6653,23 @@
 .game-icon-level-end-flag:before {
 	content: "\f885";
 }
-.game-icon-level-four-advanced:before {
-	content: "\f886";
-}
 .game-icon-level-four:before {
 	content: "\f887";
 }
-.game-icon-level-three-advanced:before {
-	content: "\f888";
+.game-icon-level-four-advanced:before {
+	content: "\f886";
 }
 .game-icon-level-three:before {
 	content: "\f889";
 }
-.game-icon-level-two-advanced:before {
-	content: "\f88a";
+.game-icon-level-three-advanced:before {
+	content: "\f888";
 }
 .game-icon-level-two:before {
 	content: "\f88b";
+}
+.game-icon-level-two-advanced:before {
+	content: "\f88a";
 }
 .game-icon-lever:before {
 	content: "\f88c";
@@ -6743,6 +6833,9 @@
 .game-icon-lob-arrow:before {
 	content: "\f8c1";
 }
+.game-icon-lock:before {
+	content: "\e058";
+}
 .game-icon-lock-picking:before {
 	content: "\f8c2";
 }
@@ -6815,11 +6908,11 @@
 .game-icon-lost-limb:before {
 	content: "\f8d9";
 }
-.game-icon-lotus-flower:before {
-	content: "\f8da";
-}
 .game-icon-lotus:before {
 	content: "\f8db";
+}
+.game-icon-lotus-flower:before {
+	content: "\f8da";
 }
 .game-icon-louvre-pyramid:before {
 	content: "\f8dc";
@@ -6884,11 +6977,11 @@
 .game-icon-machete:before {
 	content: "\f8f0";
 }
-.game-icon-machine-gun-magazine:before {
-	content: "\f8f1";
-}
 .game-icon-machine-gun:before {
 	content: "\f8f2";
+}
+.game-icon-machine-gun-magazine:before {
+	content: "\f8f1";
 }
 .game-icon-mad-scientist:before {
 	content: "\f8f3";
@@ -6932,14 +7025,14 @@
 .game-icon-magick-trick:before {
 	content: "\f900";
 }
+.game-icon-magnet:before {
+	content: "\f903";
+}
 .game-icon-magnet-blast:before {
 	content: "\f901";
 }
 .game-icon-magnet-man:before {
 	content: "\f902";
-}
-.game-icon-magnet:before {
-	content: "\f903";
 }
 .game-icon-magnifying-glass:before {
 	content: "\f904";
@@ -6976,6 +7069,9 @@
 }
 .game-icon-manual-meat-grinder:before {
 	content: "\f90f";
+}
+.game-icon-manual-water-pump:before {
+	content: "\e059";
 }
 .game-icon-maple-leaf:before {
 	content: "\f910";
@@ -7040,14 +7136,14 @@
 .game-icon-mayan-pyramid:before {
 	content: "\f924";
 }
+.game-icon-maze:before {
+	content: "\f927";
+}
 .game-icon-maze-cornea:before {
 	content: "\f925";
 }
 .game-icon-maze-saw:before {
 	content: "\f926";
-}
-.game-icon-maze:before {
-	content: "\f927";
 }
 .game-icon-meal:before {
 	content: "\f928";
@@ -7055,14 +7151,14 @@
 .game-icon-measure-tape:before {
 	content: "\f929";
 }
+.game-icon-meat:before {
+	content: "\f92c";
+}
 .game-icon-meat-cleaver:before {
 	content: "\f92a";
 }
 .game-icon-meat-hook:before {
 	content: "\f92b";
-}
-.game-icon-meat:before {
-	content: "\f92c";
 }
 .game-icon-mecha-head:before {
 	content: "\f92d";
@@ -7076,11 +7172,11 @@
 .game-icon-mechanical-arm:before {
 	content: "\f930";
 }
-.game-icon-medal-skull:before {
-	content: "\f931";
-}
 .game-icon-medal:before {
 	content: "\f932";
+}
+.game-icon-medal-skull:before {
+	content: "\f931";
 }
 .game-icon-medallist:before {
 	content: "\f933";
@@ -7088,11 +7184,11 @@
 .game-icon-medical-drip:before {
 	content: "\f934";
 }
-.game-icon-medical-pack-alt:before {
-	content: "\f935";
-}
 .game-icon-medical-pack:before {
 	content: "\f936";
+}
+.game-icon-medical-pack-alt:before {
+	content: "\f935";
 }
 .game-icon-medical-thermometer:before {
 	content: "\f937";
@@ -7121,6 +7217,9 @@
 .game-icon-medusa-head:before {
 	content: "\f93f";
 }
+.game-icon-meeple:before {
+	content: "\f944";
+}
 .game-icon-meeple-army:before {
 	content: "\f940";
 }
@@ -7132,9 +7231,6 @@
 }
 .game-icon-meeple-king:before {
 	content: "\f943";
-}
-.game-icon-meeple:before {
-	content: "\f944";
 }
 .game-icon-megabot:before {
 	content: "\f945";
@@ -7205,11 +7301,11 @@
 .game-icon-microphone:before {
 	content: "\f95b";
 }
-.game-icon-microscope-lens:before {
-	content: "\f95c";
-}
 .game-icon-microscope:before {
 	content: "\f95d";
+}
+.game-icon-microscope-lens:before {
+	content: "\f95c";
 }
 .game-icon-mid-summit:before {
 	content: "\f95e";
@@ -7277,17 +7373,20 @@
 .game-icon-minigun:before {
 	content: "\f973";
 }
-.game-icon-mining-helmet:before {
-	content: "\f974";
-}
 .game-icon-mining:before {
 	content: "\f975";
+}
+.game-icon-mining-helmet:before {
+	content: "\f974";
 }
 .game-icon-minions:before {
 	content: "\f976";
 }
 .game-icon-minotaur:before {
 	content: "\f977";
+}
+.game-icon-minus:before {
+	content: "\e05a";
 }
 .game-icon-miracle-medecine:before {
 	content: "\f978";
@@ -7310,11 +7409,11 @@
 .game-icon-missile-swarm:before {
 	content: "\f97e";
 }
-.game-icon-mite-alt:before {
-	content: "\f97f";
-}
 .game-icon-mite:before {
 	content: "\f980";
+}
+.game-icon-mite-alt:before {
+	content: "\f97f";
 }
 .game-icon-moai:before {
 	content: "\f981";
@@ -7340,11 +7439,11 @@
 .game-icon-mole:before {
 	content: "\f988";
 }
-.game-icon-molecule-2:before {
-	content: "\f989";
-}
 .game-icon-molecule:before {
 	content: "\f98a";
+}
+.game-icon-molecule-2:before {
+	content: "\f989";
 }
 .game-icon-molotov:before {
 	content: "\f98b";
@@ -7364,11 +7463,11 @@
 .game-icon-monk-face:before {
 	content: "\f990";
 }
-.game-icon-monkey-wrench:before {
-	content: "\f991";
-}
 .game-icon-monkey:before {
 	content: "\f992";
+}
+.game-icon-monkey-wrench:before {
+	content: "\f991";
 }
 .game-icon-mono-wheel-robot:before {
 	content: "\f993";
@@ -7382,6 +7481,12 @@
 .game-icon-monument-valley:before {
 	content: "\f996";
 }
+.game-icon-moon:before {
+	content: "\f99a";
+}
+.game-icon-moon-2:before {
+	content: "\e05b";
+}
 .game-icon-moon-bats:before {
 	content: "\f997";
 }
@@ -7390,9 +7495,6 @@
 }
 .game-icon-moon-orbit:before {
 	content: "\f999";
-}
-.game-icon-moon:before {
-	content: "\f99a";
 }
 .game-icon-mooring-bollard:before {
 	content: "\f99b";
@@ -7408,6 +7510,9 @@
 }
 .game-icon-mortar:before {
 	content: "\f99f";
+}
+.game-icon-mountain:before {
+	content: "\e05c";
 }
 .game-icon-mountain-cave:before {
 	content: "\f9a0";
@@ -7427,11 +7532,11 @@
 .game-icon-mounted-knight:before {
 	content: "\f9a5";
 }
-.game-icon-mouse-2:before {
-	content: "\f9a6";
-}
 .game-icon-mouse:before {
 	content: "\f9a7";
+}
+.game-icon-mouse-2:before {
+	content: "\f9a6";
 }
 .game-icon-mouth-watering:before {
 	content: "\f9a8";
@@ -7445,11 +7550,11 @@
 .game-icon-mp-40:before {
 	content: "\f9ab";
 }
-.game-icon-mp5-2:before {
-	content: "\f9ac";
-}
 .game-icon-mp5:before {
 	content: "\f9ad";
+}
+.game-icon-mp5-2:before {
+	content: "\f9ac";
 }
 .game-icon-mp5k:before {
 	content: "\f9ae";
@@ -7466,6 +7571,9 @@
 .game-icon-multiple-targets:before {
 	content: "\f9b2";
 }
+.game-icon-multiply:before {
+	content: "\e05d";
+}
 .game-icon-mummy-head:before {
 	content: "\f9b3";
 }
@@ -7478,6 +7586,9 @@
 .game-icon-muscular-torso:before {
 	content: "\f9b6";
 }
+.game-icon-mushroom:before {
+	content: "\f9ba";
+}
 .game-icon-mushroom-cloud:before {
 	content: "\f9b7";
 }
@@ -7487,14 +7598,14 @@
 .game-icon-mushroom-house:before {
 	content: "\f9b9";
 }
-.game-icon-mushroom:before {
-	content: "\f9ba";
+.game-icon-mushrooms:before {
+	content: "\f9bc";
 }
 .game-icon-mushrooms-cluster:before {
 	content: "\f9bb";
 }
-.game-icon-mushrooms:before {
-	content: "\f9bc";
+.game-icon-music:before {
+	content: "\e05e";
 }
 .game-icon-music-spell:before {
 	content: "\f9bd";
@@ -7541,11 +7652,11 @@
 .game-icon-neck-bite:before {
 	content: "\f9cb";
 }
-.game-icon-necklace-display:before {
-	content: "\f9cc";
-}
 .game-icon-necklace:before {
 	content: "\f9cd";
+}
+.game-icon-necklace-display:before {
+	content: "\f9cc";
 }
 .game-icon-nectar:before {
 	content: "\f9ce";
@@ -7643,6 +7754,9 @@
 .game-icon-nothing-to-say:before {
 	content: "\f9ed";
 }
+.game-icon-nuclear:before {
+	content: "\f9f1";
+}
 .game-icon-nuclear-bomb:before {
 	content: "\f9ee";
 }
@@ -7652,8 +7766,35 @@
 .game-icon-nuclear-waste:before {
 	content: "\f9f0";
 }
-.game-icon-nuclear:before {
-	content: "\f9f1";
+.game-icon-number-0:before {
+	content: "\e05f";
+}
+.game-icon-number-1:before {
+	content: "\e060";
+}
+.game-icon-number-2:before {
+	content: "\e061";
+}
+.game-icon-number-3:before {
+	content: "\e062";
+}
+.game-icon-number-4:before {
+	content: "\e063";
+}
+.game-icon-number-5:before {
+	content: "\e064";
+}
+.game-icon-number-6:before {
+	content: "\e065";
+}
+.game-icon-number-7:before {
+	content: "\e066";
+}
+.game-icon-number-8:before {
+	content: "\e067";
+}
+.game-icon-number-9:before {
+	content: "\e068";
 }
 .game-icon-nun-face:before {
 	content: "\f9f2";
@@ -7670,11 +7811,11 @@
 .game-icon-o-brick:before {
 	content: "\f9f6";
 }
-.game-icon-oak-leaf:before {
-	content: "\f9f7";
-}
 .game-icon-oak:before {
 	content: "\f9f8";
+}
+.game-icon-oak-leaf:before {
+	content: "\f9f7";
 }
 .game-icon-oasis:before {
 	content: "\f9f9";
@@ -7805,11 +7946,11 @@
 .game-icon-oppression:before {
 	content: "\fa23";
 }
-.game-icon-orange-slice:before {
-	content: "\fa24";
-}
 .game-icon-orange:before {
 	content: "\fa25";
+}
+.game-icon-orange-slice:before {
+	content: "\fa24";
 }
 .game-icon-orb-direction:before {
 	content: "\fa26";
@@ -7820,11 +7961,11 @@
 .game-icon-orbit:before {
 	content: "\fa28";
 }
-.game-icon-orbital-rays:before {
-	content: "\fa29";
-}
 .game-icon-orbital:before {
 	content: "\fa2a";
+}
+.game-icon-orbital-rays:before {
+	content: "\fa29";
 }
 .game-icon-orc-head:before {
 	content: "\fa2b";
@@ -7874,11 +8015,11 @@
 .game-icon-owl:before {
 	content: "\fa3a";
 }
-.game-icon-oyster-pearl:before {
-	content: "\fa3b";
-}
 .game-icon-oyster:before {
 	content: "\fa3c";
+}
+.game-icon-oyster-pearl:before {
+	content: "\fa3b";
 }
 .game-icon-p90:before {
 	content: "\fa3d";
@@ -7892,11 +8033,11 @@
 .game-icon-paddles:before {
 	content: "\fa40";
 }
-.game-icon-padlock-open:before {
-	content: "\fa41";
-}
 .game-icon-padlock:before {
 	content: "\fa42";
+}
+.game-icon-padlock-open:before {
+	content: "\fa41";
 }
 .game-icon-pagoda:before {
 	content: "\fa43";
@@ -7919,11 +8060,11 @@
 .game-icon-palisade:before {
 	content: "\fa49";
 }
-.game-icon-palm-tree:before {
-	content: "\fa4a";
-}
 .game-icon-palm:before {
 	content: "\fa4b";
+}
+.game-icon-palm-tree:before {
+	content: "\fa4a";
 }
 .game-icon-pan-flute:before {
 	content: "\fa4c";
@@ -7936,6 +8077,9 @@
 }
 .game-icon-panzerfaust:before {
 	content: "\fa4f";
+}
+.game-icon-paper:before {
+	content: "\fa5d";
 }
 .game-icon-paper-arrow:before {
 	content: "\fa50";
@@ -7975,9 +8119,6 @@
 }
 .game-icon-paper-windmill:before {
 	content: "\fa5c";
-}
-.game-icon-paper:before {
-	content: "\fa5d";
 }
 .game-icon-papers:before {
 	content: "\fa5e";
@@ -8030,6 +8171,12 @@
 .game-icon-pause-button:before {
 	content: "\fa6e";
 }
+.game-icon-paw:before {
+	content: "\fa72";
+}
+.game-icon-paw-2:before {
+	content: "\e069";
+}
 .game-icon-paw-front:before {
 	content: "\fa6f";
 }
@@ -8038,9 +8185,6 @@
 }
 .game-icon-paw-print:before {
 	content: "\fa71";
-}
-.game-icon-paw:before {
-	content: "\fa72";
 }
 .game-icon-pawn:before {
 	content: "\fa73";
@@ -8084,14 +8228,17 @@
 .game-icon-pelvis-bone:before {
 	content: "\fa80";
 }
+.game-icon-pencil:before {
+	content: "\fa83";
+}
+.game-icon-pencil-2:before {
+	content: "\e06a";
+}
 .game-icon-pencil-brush:before {
 	content: "\fa81";
 }
 .game-icon-pencil-ruler:before {
 	content: "\fa82";
-}
-.game-icon-pencil:before {
-	content: "\fa83";
 }
 .game-icon-pendant-key:before {
 	content: "\fa84";
@@ -8111,6 +8258,9 @@
 .game-icon-pentarrows-tornado:before {
 	content: "\fa89";
 }
+.game-icon-percentage:before {
+	content: "\e06b";
+}
 .game-icon-perfume-bottle:before {
 	content: "\fa8a";
 }
@@ -8120,11 +8270,14 @@
 .game-icon-perpendicular-rings:before {
 	content: "\fa8c";
 }
+.game-icon-person:before {
+	content: "\fa8e";
+}
 .game-icon-person-in-bed:before {
 	content: "\fa8d";
 }
-.game-icon-person:before {
-	content: "\fa8e";
+.game-icon-person-in-blizzard:before {
+	content: "\e06c";
 }
 .game-icon-perspective-dice-five:before {
 	content: "\fa8f";
@@ -8134,6 +8287,9 @@
 }
 .game-icon-perspective-dice-one:before {
 	content: "\fa91";
+}
+.game-icon-perspective-dice-six:before {
+	content: "\fa99";
 }
 .game-icon-perspective-dice-six-faces-five:before {
 	content: "\fa92";
@@ -8155,9 +8311,6 @@
 }
 .game-icon-perspective-dice-six-faces-two:before {
 	content: "\fa98";
-}
-.game-icon-perspective-dice-six:before {
-	content: "\fa99";
 }
 .game-icon-perspective-dice-three:before {
 	content: "\fa9a";
@@ -8219,11 +8372,11 @@
 .game-icon-piercing-sword:before {
 	content: "\faad";
 }
-.game-icon-pig-face:before {
-	content: "\faae";
-}
 .game-icon-pig:before {
 	content: "\faaf";
+}
+.game-icon-pig-face:before {
+	content: "\faae";
 }
 .game-icon-piggy-bank:before {
 	content: "\fab0";
@@ -8234,11 +8387,11 @@
 .game-icon-pilgrim-hat:before {
 	content: "\fab2";
 }
-.game-icon-pill-drop:before {
-	content: "\fab3";
-}
 .game-icon-pill:before {
 	content: "\fab4";
+}
+.game-icon-pill-drop:before {
+	content: "\fab3";
 }
 .game-icon-pillow:before {
 	content: "\fab5";
@@ -8408,6 +8561,9 @@
 .game-icon-plunger:before {
 	content: "\faec";
 }
+.game-icon-plus:before {
+	content: "\e06d";
+}
 .game-icon-pocket-bow:before {
 	content: "\faed";
 }
@@ -8416,6 +8572,9 @@
 }
 .game-icon-pocket-watch:before {
 	content: "\faef";
+}
+.game-icon-podium:before {
+	content: "\faf3";
 }
 .game-icon-podium-second:before {
 	content: "\faf0";
@@ -8426,9 +8585,6 @@
 .game-icon-podium-winner:before {
 	content: "\faf2";
 }
-.game-icon-podium:before {
-	content: "\faf3";
-}
 .game-icon-pointing:before {
 	content: "\faf4";
 }
@@ -8438,6 +8594,9 @@
 .game-icon-pointy-sword:before {
 	content: "\faf6";
 }
+.game-icon-poison:before {
+	content: "\fafa";
+}
 .game-icon-poison-bottle:before {
 	content: "\faf7";
 }
@@ -8446,9 +8605,6 @@
 }
 .game-icon-poison-gas:before {
 	content: "\faf9";
-}
-.game-icon-poison:before {
-	content: "\fafa";
 }
 .game-icon-pokecog:before {
 	content: "\fafb";
@@ -8543,6 +8699,9 @@
 .game-icon-potion-of-madness:before {
 	content: "\fb19";
 }
+.game-icon-pouch-with-beads:before {
+	content: "\e06e";
+}
 .game-icon-pounce:before {
 	content: "\fb1a";
 }
@@ -8552,11 +8711,11 @@
 .game-icon-pouring-pot:before {
 	content: "\fb1c";
 }
-.game-icon-powder-bag:before {
-	content: "\fb1d";
-}
 .game-icon-powder:before {
 	content: "\fb1e";
+}
+.game-icon-powder-bag:before {
+	content: "\fb1d";
 }
 .game-icon-power-button:before {
 	content: "\fb1f";
@@ -8573,11 +8732,11 @@
 .game-icon-prank-glasses:before {
 	content: "\fb23";
 }
-.game-icon-prayer-beads:before {
-	content: "\fb24";
-}
 .game-icon-prayer:before {
 	content: "\fb25";
+}
+.game-icon-prayer-beads:before {
+	content: "\fb24";
 }
 .game-icon-praying-mantis:before {
 	content: "\fb26";
@@ -8612,11 +8771,14 @@
 .game-icon-prisoner:before {
 	content: "\fb30";
 }
-.game-icon-private-first-class:before {
-	content: "\fb31";
-}
 .game-icon-private:before {
 	content: "\fb32";
+}
+.game-icon-private-2:before {
+	content: "\e06f";
+}
+.game-icon-private-first-class:before {
+	content: "\fb31";
 }
 .game-icon-processor:before {
 	content: "\fb33";
@@ -8660,20 +8822,20 @@
 .game-icon-pummeled:before {
 	content: "\fb40";
 }
+.game-icon-pumpkin:before {
+	content: "\fb43";
+}
 .game-icon-pumpkin-lantern:before {
 	content: "\fb41";
 }
 .game-icon-pumpkin-mask:before {
 	content: "\fb42";
 }
-.game-icon-pumpkin:before {
-	content: "\fb43";
+.game-icon-punch:before {
+	content: "\fb45";
 }
 .game-icon-punch-blast:before {
 	content: "\fb44";
-}
-.game-icon-punch:before {
-	content: "\fb45";
 }
 .game-icon-punching-bag:before {
 	content: "\fb46";
@@ -8683,6 +8845,9 @@
 }
 .game-icon-purple-tentacle:before {
 	content: "\fb48";
+}
+.game-icon-purse:before {
+	content: "\e070";
 }
 .game-icon-push:before {
 	content: "\fb49";
@@ -8708,6 +8873,9 @@
 .game-icon-queen-crown:before {
 	content: "\fb50";
 }
+.game-icon-question:before {
+	content: "\e071";
+}
 .game-icon-quick-man:before {
 	content: "\fb51";
 }
@@ -8717,20 +8885,20 @@
 .game-icon-quicksand:before {
 	content: "\fb53";
 }
-.game-icon-quill-ink:before {
-	content: "\fb54";
-}
 .game-icon-quill:before {
 	content: "\fb55";
+}
+.game-icon-quill-ink:before {
+	content: "\fb54";
 }
 .game-icon-quiver:before {
 	content: "\fb56";
 }
-.game-icon-rabbit-head:before {
-	content: "\fb57";
-}
 .game-icon-rabbit:before {
 	content: "\fb58";
+}
+.game-icon-rabbit-head:before {
+	content: "\fb57";
 }
 .game-icon-raccoon-head:before {
 	content: "\fb59";
@@ -8762,6 +8930,9 @@
 .game-icon-radioactive:before {
 	content: "\fb62";
 }
+.game-icon-radioactive-2:before {
+	content: "\e072";
+}
 .game-icon-raft:before {
 	content: "\fb63";
 }
@@ -8792,14 +8963,14 @@
 .game-icon-rally-the-troops:before {
 	content: "\fb6c";
 }
+.game-icon-ram:before {
+	content: "\fb6f";
+}
 .game-icon-ram-2:before {
 	content: "\fb6d";
 }
 .game-icon-ram-profile:before {
 	content: "\fb6e";
-}
-.game-icon-ram:before {
-	content: "\fb6f";
 }
 .game-icon-ranch-gate:before {
 	content: "\fb70";
@@ -8834,11 +9005,11 @@
 .game-icon-ray-gun:before {
 	content: "\fb7a";
 }
-.game-icon-razor-blade:before {
-	content: "\fb7b";
-}
 .game-icon-razor:before {
 	content: "\fb7c";
+}
+.game-icon-razor-blade:before {
+	content: "\fb7b";
 }
 .game-icon-reactor:before {
 	content: "\fb7d";
@@ -8906,17 +9077,17 @@
 .game-icon-return-arrow:before {
 	content: "\fb92";
 }
-.game-icon-revolt-2:before {
-	content: "\fb93";
-}
 .game-icon-revolt:before {
 	content: "\fb94";
 }
-.game-icon-revolver-2:before {
-	content: "\fb95";
+.game-icon-revolt-2:before {
+	content: "\fb93";
 }
 .game-icon-revolver:before {
 	content: "\fb96";
+}
+.game-icon-revolver-2:before {
+	content: "\fb95";
 }
 .game-icon-rhinoceros-horn:before {
 	content: "\fb97";
@@ -8924,14 +9095,14 @@
 .game-icon-rialto-bridge:before {
 	content: "\fb98";
 }
+.game-icon-ribbon:before {
+	content: "\fb9b";
+}
 .game-icon-ribbon-medal:before {
 	content: "\fb99";
 }
 .game-icon-ribbon-shield:before {
 	content: "\fb9a";
-}
-.game-icon-ribbon:before {
-	content: "\fb9b";
 }
 .game-icon-ribcage:before {
 	content: "\fb9c";
@@ -8945,20 +9116,23 @@
 .game-icon-rifle:before {
 	content: "\fb9f";
 }
+.game-icon-ring:before {
+	content: "\fba2";
+}
 .game-icon-ring-box:before {
 	content: "\fba0";
 }
 .game-icon-ring-mould:before {
 	content: "\fba1";
 }
-.game-icon-ring:before {
-	content: "\fba2";
-}
 .game-icon-ringed-beam:before {
 	content: "\fba3";
 }
 .game-icon-ringed-planet:before {
 	content: "\fba4";
+}
+.game-icon-ringed-tentacle:before {
+	content: "\e073";
 }
 .game-icon-ringing-alarm:before {
 	content: "\fba5";
@@ -8984,14 +9158,14 @@
 .game-icon-roast-chicken:before {
 	content: "\fbac";
 }
+.game-icon-robber:before {
+	content: "\fbaf";
+}
 .game-icon-robber-hand:before {
 	content: "\fbad";
 }
 .game-icon-robber-mask:before {
 	content: "\fbae";
-}
-.game-icon-robber:before {
-	content: "\fbaf";
 }
 .game-icon-robe:before {
 	content: "\fbb0";
@@ -9014,23 +9188,23 @@
 .game-icon-robot-leg:before {
 	content: "\fbb6";
 }
+.game-icon-rock:before {
+	content: "\fbb9";
+}
 .game-icon-rock-2:before {
 	content: "\fbb7";
 }
 .game-icon-rock-golem:before {
 	content: "\fbb8";
 }
-.game-icon-rock:before {
-	content: "\fbb9";
+.game-icon-rocket:before {
+	content: "\fbbc";
 }
 .game-icon-rocket-flight:before {
 	content: "\fbba";
 }
 .game-icon-rocket-thruster:before {
 	content: "\fbbb";
-}
-.game-icon-rocket:before {
-	content: "\fbbc";
 }
 .game-icon-rocking-chair:before {
 	content: "\fbbd";
@@ -9128,11 +9302,11 @@
 .game-icon-royal-love:before {
 	content: "\fbdc";
 }
-.game-icon-rss-2:before {
-	content: "\fbdd";
-}
 .game-icon-rss:before {
 	content: "\fbde";
+}
+.game-icon-rss-2:before {
+	content: "\fbdd";
 }
 .game-icon-rub-el-hizb:before {
 	content: "\fbdf";
@@ -9188,6 +9362,9 @@
 .game-icon-sacrificial-dagger:before {
 	content: "\fbf0";
 }
+.game-icon-sad:before {
+	content: "\e074";
+}
 .game-icon-sad-crab:before {
 	content: "\fbf1";
 }
@@ -9215,17 +9392,20 @@
 .game-icon-saiyan-suit:before {
 	content: "\fbf9";
 }
+.game-icon-sake-bottle:before {
+	content: "\e075";
+}
 .game-icon-salamander:before {
 	content: "\fbfa";
 }
 .game-icon-salmon:before {
 	content: "\fbfb";
 }
-.game-icon-saloon-doors:before {
-	content: "\fbfc";
-}
 .game-icon-saloon:before {
 	content: "\fbfd";
+}
+.game-icon-saloon-doors:before {
+	content: "\fbfc";
 }
 .game-icon-salt-shaker:before {
 	content: "\fbfe";
@@ -9269,6 +9449,9 @@
 .game-icon-sasquatch:before {
 	content: "\fc0b";
 }
+.game-icon-satellite:before {
+	content: "\e076";
+}
 .game-icon-satellite-communication:before {
 	content: "\fc0c";
 }
@@ -9290,11 +9473,11 @@
 .game-icon-sausages-ribbon:before {
 	content: "\fc12";
 }
-.game-icon-save-arrow:before {
-	content: "\fc13";
-}
 .game-icon-save:before {
 	content: "\fc14";
+}
+.game-icon-save-arrow:before {
+	content: "\fc13";
 }
 .game-icon-saw-claw:before {
 	content: "\fc15";
@@ -9317,11 +9500,11 @@
 .game-icon-scallop:before {
 	content: "\fc1b";
 }
-.game-icon-scalpel-strike:before {
-	content: "\fc1c";
-}
 .game-icon-scalpel:before {
 	content: "\fc1d";
+}
+.game-icon-scalpel-strike:before {
+	content: "\fc1c";
 }
 .game-icon-scar-wound:before {
 	content: "\fc1e";
@@ -9344,11 +9527,11 @@
 .game-icon-schrodingers-cat-dead:before {
 	content: "\fc24";
 }
-.game-icon-scissors-2:before {
-	content: "\fc25";
-}
 .game-icon-scissors:before {
 	content: "\fc26";
+}
+.game-icon-scissors-2:before {
+	content: "\fc25";
 }
 .game-icon-scooter:before {
 	content: "\fc27";
@@ -9356,11 +9539,11 @@
 .game-icon-scorpio:before {
 	content: "\fc28";
 }
-.game-icon-scorpion-tail:before {
-	content: "\fc29";
-}
 .game-icon-scorpion:before {
 	content: "\fc2a";
+}
+.game-icon-scorpion-tail:before {
+	content: "\fc29";
 }
 .game-icon-scout-ship:before {
 	content: "\fc2b";
@@ -9371,11 +9554,11 @@
 .game-icon-screen-impact:before {
 	content: "\fc2d";
 }
-.game-icon-screw-2:before {
-	content: "\fc2e";
-}
 .game-icon-screw:before {
 	content: "\fc2f";
+}
+.game-icon-screw-2:before {
+	content: "\fc2e";
 }
 .game-icon-screwdriver:before {
 	content: "\fc30";
@@ -9457,6 +9640,9 @@
 }
 .game-icon-sergeant:before {
 	content: "\fc4a";
+}
+.game-icon-sergeant-2:before {
+	content: "\e077";
 }
 .game-icon-serrated-slash:before {
 	content: "\fc4b";
@@ -9572,6 +9758,12 @@
 .game-icon-sherlock-holmes:before {
 	content: "\fc70";
 }
+.game-icon-shield:before {
+	content: "\fc78";
+}
+.game-icon-shield-2:before {
+	content: "\e078";
+}
 .game-icon-shield-bash:before {
 	content: "\fc71";
 }
@@ -9593,9 +9785,6 @@
 .game-icon-shield-reflect:before {
 	content: "\fc77";
 }
-.game-icon-shield:before {
-	content: "\fc78";
-}
 .game-icon-shieldcomb:before {
 	content: "\fc79";
 }
@@ -9608,11 +9797,11 @@
 .game-icon-shining-sword:before {
 	content: "\fc7c";
 }
-.game-icon-shinto-shrine-mirror:before {
-	content: "\fc7d";
-}
 .game-icon-shinto-shrine:before {
 	content: "\fc7e";
+}
+.game-icon-shinto-shrine-mirror:before {
+	content: "\fc7d";
 }
 .game-icon-shiny-apple:before {
 	content: "\fc7f";
@@ -9638,11 +9827,11 @@
 .game-icon-ship-wreck:before {
 	content: "\fc86";
 }
-.game-icon-shirt-button:before {
-	content: "\fc87";
-}
 .game-icon-shirt:before {
 	content: "\fc88";
+}
+.game-icon-shirt-button:before {
+	content: "\fc87";
 }
 .game-icon-shoebill-stork:before {
 	content: "\fc89";
@@ -9662,11 +9851,11 @@
 .game-icon-shorts:before {
 	content: "\fc8e";
 }
-.game-icon-shotgun-rounds:before {
-	content: "\fc8f";
-}
 .game-icon-shotgun:before {
 	content: "\fc90";
+}
+.game-icon-shotgun-rounds:before {
+	content: "\fc8f";
 }
 .game-icon-shoulder-armor:before {
 	content: "\fc91";
@@ -9689,14 +9878,14 @@
 .game-icon-shrug:before {
 	content: "\fc97";
 }
+.game-icon-shuriken:before {
+	content: "\fc9a";
+}
 .game-icon-shuriken-2:before {
 	content: "\fc98";
 }
 .game-icon-shuriken-aperture:before {
 	content: "\fc99";
-}
-.game-icon-shuriken:before {
-	content: "\fc9a";
 }
 .game-icon-shut-rose:before {
 	content: "\fc9b";
@@ -9770,14 +9959,14 @@
 .game-icon-skeletal-hand:before {
 	content: "\fcb2";
 }
+.game-icon-skeleton:before {
+	content: "\fcb5";
+}
 .game-icon-skeleton-inside:before {
 	content: "\fcb3";
 }
 .game-icon-skeleton-key:before {
 	content: "\fcb4";
-}
-.game-icon-skeleton:before {
-	content: "\fcb5";
 }
 .game-icon-ski-boot:before {
 	content: "\fcb6";
@@ -9802,6 +9991,9 @@
 }
 .game-icon-skis:before {
 	content: "\fcbd";
+}
+.game-icon-skull:before {
+	content: "\e079";
 }
 .game-icon-skull-bolt:before {
 	content: "\fcbe";
@@ -9914,11 +10106,11 @@
 .game-icon-smart:before {
 	content: "\fce2";
 }
-.game-icon-smartphone-2:before {
-	content: "\fce3";
-}
 .game-icon-smartphone:before {
 	content: "\fce4";
+}
+.game-icon-smartphone-2:before {
+	content: "\fce3";
 }
 .game-icon-smash-arrows:before {
 	content: "\fce5";
@@ -9941,11 +10133,14 @@
 .game-icon-smoking-volcano:before {
 	content: "\fceb";
 }
+.game-icon-snail:before {
+	content: "\fced";
+}
 .game-icon-snail-eyes:before {
 	content: "\fcec";
 }
-.game-icon-snail:before {
-	content: "\fced";
+.game-icon-snake:before {
+	content: "\fcf4";
 }
 .game-icon-snake-bite:before {
 	content: "\fcee";
@@ -9964,9 +10159,6 @@
 }
 .game-icon-snake-totem:before {
 	content: "\fcf3";
-}
-.game-icon-snake:before {
-	content: "\fcf4";
 }
 .game-icon-snatch:before {
 	content: "\fcf5";
@@ -10001,11 +10193,11 @@
 .game-icon-snowman:before {
 	content: "\fcff";
 }
-.game-icon-soap-experiment:before {
-	content: "\fd00";
-}
 .game-icon-soap:before {
 	content: "\fd01";
+}
+.game-icon-soap-experiment:before {
+	content: "\fd00";
 }
 .game-icon-soccer-ball:before {
 	content: "\fd02";
@@ -10061,6 +10253,9 @@
 .game-icon-sonic-shout:before {
 	content: "\fd13";
 }
+.game-icon-soul:before {
+	content: "\e07a";
+}
 .game-icon-soul-vessel:before {
 	content: "\fd14";
 }
@@ -10073,11 +10268,11 @@
 .game-icon-sound-waves:before {
 	content: "\fd17";
 }
-.game-icon-south-africa-flag:before {
-	content: "\fd18";
-}
 .game-icon-south-africa:before {
 	content: "\fd19";
+}
+.game-icon-south-africa-flag:before {
+	content: "\fd18";
 }
 .game-icon-south-america:before {
 	content: "\fd1a";
@@ -10097,11 +10292,14 @@
 .game-icon-spaceship:before {
 	content: "\fd1f";
 }
-.game-icon-spade-skull:before {
-	content: "\fd20";
-}
 .game-icon-spade:before {
 	content: "\fd21";
+}
+.game-icon-spade-2:before {
+	content: "\e07b";
+}
+.game-icon-spade-skull:before {
+	content: "\fd20";
 }
 .game-icon-spades:before {
 	content: "\fd22";
@@ -10130,11 +10328,11 @@
 .game-icon-sparrow:before {
 	content: "\fd2a";
 }
-.game-icon-spartan-helmet:before {
-	content: "\fd2b";
-}
 .game-icon-spartan:before {
 	content: "\fd2c";
+}
+.game-icon-spartan-helmet:before {
+	content: "\fd2b";
 }
 .game-icon-spatter:before {
 	content: "\fd2d";
@@ -10142,11 +10340,11 @@
 .game-icon-spawn-node:before {
 	content: "\fd2e";
 }
-.game-icon-speaker-off:before {
-	content: "\fd2f";
-}
 .game-icon-speaker:before {
 	content: "\fd30";
+}
+.game-icon-speaker-off:before {
+	content: "\fd2f";
 }
 .game-icon-spear-feather:before {
 	content: "\fd31";
@@ -10166,11 +10364,11 @@
 .game-icon-spectacles:before {
 	content: "\fd36";
 }
-.game-icon-spectre-m4:before {
-	content: "\fd37";
-}
 .game-icon-spectre:before {
 	content: "\fd38";
+}
+.game-icon-spectre-m4:before {
+	content: "\fd37";
 }
 .game-icon-speed-boat:before {
 	content: "\fd39";
@@ -10253,6 +10451,9 @@
 .game-icon-spiked-wall:before {
 	content: "\fd53";
 }
+.game-icon-spikes:before {
+	content: "\fd57";
+}
 .game-icon-spikes-full:before {
 	content: "\fd54";
 }
@@ -10261,9 +10462,6 @@
 }
 .game-icon-spikes-init:before {
 	content: "\fd56";
-}
-.game-icon-spikes:before {
-	content: "\fd57";
 }
 .game-icon-spiky-eclipse:before {
 	content: "\fd58";
@@ -10328,11 +10526,11 @@
 .game-icon-spiral-thrust:before {
 	content: "\fd6c";
 }
-.game-icon-splash-2:before {
-	content: "\fd6d";
-}
 .game-icon-splash:before {
 	content: "\fd6e";
+}
+.game-icon-splash-2:before {
+	content: "\fd6d";
 }
 .game-icon-splashy-stream:before {
 	content: "\fd6f";
@@ -10388,11 +10586,11 @@
 .game-icon-sprint:before {
 	content: "\fd80";
 }
-.game-icon-sprout-disc:before {
-	content: "\fd81";
-}
 .game-icon-sprout:before {
 	content: "\fd82";
+}
+.game-icon-sprout-disc:before {
+	content: "\fd81";
 }
 .game-icon-spy:before {
 	content: "\fd83";
@@ -10400,20 +10598,20 @@
 .game-icon-spyglass:before {
 	content: "\fd84";
 }
-.game-icon-square-bottle:before {
-	content: "\fd85";
-}
 .game-icon-square:before {
 	content: "\fd86";
+}
+.game-icon-square-bottle:before {
+	content: "\fd85";
 }
 .game-icon-squib:before {
 	content: "\fd87";
 }
-.game-icon-squid-head:before {
-	content: "\fd88";
-}
 .game-icon-squid:before {
 	content: "\fd89";
+}
+.game-icon-squid-head:before {
+	content: "\fd88";
 }
 .game-icon-squirrel:before {
 	content: "\fd8a";
@@ -10436,14 +10634,14 @@
 .game-icon-stahlhelm:before {
 	content: "\fd90";
 }
+.game-icon-stairs:before {
+	content: "\fd93";
+}
 .game-icon-stairs-cake:before {
 	content: "\fd91";
 }
 .game-icon-stairs-goal:before {
 	content: "\fd92";
-}
-.game-icon-stairs:before {
-	content: "\fd93";
 }
 .game-icon-stake-hammer:before {
 	content: "\fd94";
@@ -10463,14 +10661,17 @@
 .game-icon-standing-potion:before {
 	content: "\fd99";
 }
+.game-icon-stapler:before {
+	content: "\fd9c";
+}
 .game-icon-stapler-heavy-duty:before {
 	content: "\fd9a";
 }
 .game-icon-stapler-pneumatic:before {
 	content: "\fd9b";
 }
-.game-icon-stapler:before {
-	content: "\fd9c";
+.game-icon-star:before {
+	content: "\e07c";
 }
 .game-icon-star-altar:before {
 	content: "\fd9d";
@@ -10499,6 +10700,9 @@
 .game-icon-star-pupil:before {
 	content: "\fda5";
 }
+.game-icon-star-satellites:before {
+	content: "\e07d";
+}
 .game-icon-star-sattelites:before {
 	content: "\fda6";
 }
@@ -10523,14 +10727,14 @@
 .game-icon-staryu:before {
 	content: "\fdad";
 }
+.game-icon-static:before {
+	content: "\fdb0";
+}
 .game-icon-static-guard:before {
 	content: "\fdae";
 }
 .game-icon-static-waves:before {
 	content: "\fdaf";
-}
-.game-icon-static:before {
-	content: "\fdb0";
 }
 .game-icon-steak:before {
 	content: "\fdb1";
@@ -10538,14 +10742,14 @@
 .game-icon-stealth-bomber:before {
 	content: "\fdb2";
 }
+.game-icon-steam:before {
+	content: "\fdb5";
+}
 .game-icon-steam-blast:before {
 	content: "\fdb3";
 }
 .game-icon-steam-locomotive:before {
 	content: "\fdb4";
-}
-.game-icon-steam:before {
-	content: "\fdb5";
 }
 .game-icon-steampunk-goggles:before {
 	content: "\fdb6";
@@ -10553,11 +10757,11 @@
 .game-icon-steamroller:before {
 	content: "\fdb7";
 }
-.game-icon-steel-claws-2:before {
-	content: "\fdb8";
-}
 .game-icon-steel-claws:before {
 	content: "\fdb9";
+}
+.game-icon-steel-claws-2:before {
+	content: "\fdb8";
 }
 .game-icon-steel-door:before {
 	content: "\fdba";
@@ -10598,11 +10802,11 @@
 .game-icon-stigmata:before {
 	content: "\fdc6";
 }
-.game-icon-stiletto-2:before {
-	content: "\fdc7";
-}
 .game-icon-stiletto:before {
 	content: "\fdc8";
+}
+.game-icon-stiletto-2:before {
+	content: "\fdc7";
 }
 .game-icon-stitched-wound:before {
 	content: "\fdc9";
@@ -10613,11 +10817,11 @@
 .game-icon-stomach:before {
 	content: "\fdcb";
 }
-.game-icon-stomp-tornado:before {
-	content: "\fdcc";
-}
 .game-icon-stomp:before {
 	content: "\fdcd";
+}
+.game-icon-stomp-tornado:before {
+	content: "\fdcc";
 }
 .game-icon-stone-axe:before {
 	content: "\fdce";
@@ -10670,11 +10874,11 @@
 .game-icon-stop-sign:before {
 	content: "\fdde";
 }
-.game-icon-stopwatch-2:before {
-	content: "\fddf";
-}
 .game-icon-stopwatch:before {
 	content: "\fde0";
+}
+.game-icon-stopwatch-2:before {
+	content: "\fddf";
 }
 .game-icon-stork-delivery:before {
 	content: "\fde1";
@@ -10690,6 +10894,9 @@
 }
 .game-icon-street-light:before {
 	content: "\fde5";
+}
+.game-icon-strength:before {
+	content: "\e07e";
 }
 .game-icon-striking-arrows:before {
 	content: "\fde6";
@@ -10712,11 +10919,11 @@
 .game-icon-striped-sword:before {
 	content: "\fdec";
 }
-.game-icon-strong-man:before {
-	content: "\fded";
-}
 .game-icon-strong:before {
 	content: "\fdee";
+}
+.game-icon-strong-man:before {
+	content: "\fded";
 }
 .game-icon-strongbox:before {
 	content: "\fdef";
@@ -10727,20 +10934,20 @@
 .game-icon-stun-grenade:before {
 	content: "\fdf1";
 }
+.game-icon-submarine:before {
+	content: "\fdf3";
+}
 .game-icon-submarine-missile:before {
 	content: "\fdf2";
 }
-.game-icon-submarine:before {
-	content: "\fdf3";
+.game-icon-subway:before {
+	content: "\fdf6";
 }
 .game-icon-subway-pass:before {
 	content: "\fdf4";
 }
 .game-icon-subway-train:before {
 	content: "\fdf5";
-}
-.game-icon-subway:before {
-	content: "\fdf6";
 }
 .game-icon-suckered-tentacle:before {
 	content: "\fdf7";
@@ -10760,6 +10967,15 @@
 .game-icon-summits:before {
 	content: "\fdfc";
 }
+.game-icon-summon:before {
+	content: "\e07f";
+}
+.game-icon-sun:before {
+	content: "\fe01";
+}
+.game-icon-sun-2:before {
+	content: "\e080";
+}
 .game-icon-sun-cloud:before {
 	content: "\fdfd";
 }
@@ -10771,9 +10987,6 @@
 }
 .game-icon-sun-spear:before {
 	content: "\fe00";
-}
-.game-icon-sun:before {
-	content: "\fe01";
 }
 .game-icon-sunbeams:before {
 	content: "\fe02";
@@ -10790,11 +11003,11 @@
 .game-icon-sunken-eye:before {
 	content: "\fe06";
 }
-.game-icon-sunrise-2:before {
-	content: "\fe07";
-}
 .game-icon-sunrise:before {
 	content: "\fe08";
+}
+.game-icon-sunrise-2:before {
+	content: "\fe07";
 }
 .game-icon-sunset:before {
 	content: "\fe09";
@@ -10814,11 +11027,11 @@
 .game-icon-surfer-van:before {
 	content: "\fe0e";
 }
-.game-icon-surprised-skull:before {
-	content: "\fe0f";
-}
 .game-icon-surprised:before {
 	content: "\fe10";
+}
+.game-icon-surprised-skull:before {
+	content: "\fe0f";
 }
 .game-icon-surrounded-eye:before {
 	content: "\fe11";
@@ -10838,26 +11051,26 @@
 .game-icon-sverd-i-fjell:before {
 	content: "\fe16";
 }
-.game-icon-swallow-2:before {
-	content: "\fe17";
-}
 .game-icon-swallow:before {
 	content: "\fe18";
+}
+.game-icon-swallow-2:before {
+	content: "\fe17";
 }
 .game-icon-swallower:before {
 	content: "\fe19";
 }
-.game-icon-swamp-bat:before {
-	content: "\fe1a";
-}
 .game-icon-swamp:before {
 	content: "\fe1b";
 }
-.game-icon-swan-breeze:before {
-	content: "\fe1c";
+.game-icon-swamp-bat:before {
+	content: "\fe1a";
 }
 .game-icon-swan:before {
 	content: "\fe1d";
+}
+.game-icon-swan-breeze:before {
+	content: "\fe1c";
 }
 .game-icon-swap-bag:before {
 	content: "\fe1e";
@@ -10946,11 +11159,11 @@
 .game-icon-sydney-opera-house:before {
 	content: "\fe3a";
 }
-.game-icon-syringe-2:before {
-	content: "\fe3b";
-}
 .game-icon-syringe:before {
 	content: "\fe3c";
+}
+.game-icon-syringe-2:before {
+	content: "\fe3b";
 }
 .game-icon-t-brick:before {
 	content: "\fe3d";
@@ -10997,14 +11210,14 @@
 .game-icon-tangerine:before {
 	content: "\fe4b";
 }
+.game-icon-tank:before {
+	content: "\fe4e";
+}
 .game-icon-tank-top:before {
 	content: "\fe4c";
 }
 .game-icon-tank-tread:before {
 	content: "\fe4d";
-}
-.game-icon-tank:before {
-	content: "\fe4e";
 }
 .game-icon-tanzania:before {
 	content: "\fe4f";
@@ -11051,6 +11264,60 @@
 .game-icon-tarot-03-the-empress:before {
 	content: "\fe5d";
 }
+.game-icon-tarot-04-the-emperor:before {
+	content: "\e081";
+}
+.game-icon-tarot-05-the-hierophant:before {
+	content: "\e082";
+}
+.game-icon-tarot-06-the-lovers:before {
+	content: "\e083";
+}
+.game-icon-tarot-07-the-chariot:before {
+	content: "\e084";
+}
+.game-icon-tarot-08-strength:before {
+	content: "\e085";
+}
+.game-icon-tarot-09-the-hermit:before {
+	content: "\e086";
+}
+.game-icon-tarot-10-wheel-of-fortune:before {
+	content: "\e087";
+}
+.game-icon-tarot-11-justice:before {
+	content: "\e088";
+}
+.game-icon-tarot-12-the-hanged-man:before {
+	content: "\e089";
+}
+.game-icon-tarot-13-death:before {
+	content: "\e08a";
+}
+.game-icon-tarot-14-temperance:before {
+	content: "\e08b";
+}
+.game-icon-tarot-15-the-devil:before {
+	content: "\e08c";
+}
+.game-icon-tarot-16-the-tower:before {
+	content: "\e08d";
+}
+.game-icon-tarot-17-the-star:before {
+	content: "\e08e";
+}
+.game-icon-tarot-18-the-moon:before {
+	content: "\e08f";
+}
+.game-icon-tarot-19-the-sun:before {
+	content: "\e090";
+}
+.game-icon-tarot-20-judgement:before {
+	content: "\e091";
+}
+.game-icon-tarot-21-the-world:before {
+	content: "\e092";
+}
 .game-icon-tattered-banner:before {
 	content: "\fe5e";
 }
@@ -11072,11 +11339,11 @@
 .game-icon-team-upgrade:before {
 	content: "\fe64";
 }
-.game-icon-teapot-leaves:before {
-	content: "\fe65";
-}
 .game-icon-teapot:before {
 	content: "\fe66";
+}
+.game-icon-teapot-leaves:before {
+	content: "\fe65";
 }
 .game-icon-tear-tracks:before {
 	content: "\fe67";
@@ -11162,17 +11429,17 @@
 .game-icon-terror:before {
 	content: "\fe82";
 }
-.game-icon-tesla-coil-2:before {
-	content: "\fe83";
+.game-icon-tesla:before {
+	content: "\fe86";
 }
 .game-icon-tesla-coil:before {
 	content: "\fe84";
 }
+.game-icon-tesla-coil-2:before {
+	content: "\fe83";
+}
 .game-icon-tesla-turret:before {
 	content: "\fe85";
-}
-.game-icon-tesla:before {
-	content: "\fe86";
 }
 .game-icon-test-tube-held:before {
 	content: "\fe87";
@@ -11186,11 +11453,11 @@
 .game-icon-texas:before {
 	content: "\fe8a";
 }
-.game-icon-theater-curtains:before {
-	content: "\fe8b";
-}
 .game-icon-theater:before {
 	content: "\fe8c";
+}
+.game-icon-theater-curtains:before {
+	content: "\fe8b";
 }
 .game-icon-thermometer-cold:before {
 	content: "\fe8d";
@@ -11231,6 +11498,9 @@
 .game-icon-thorny-vine:before {
 	content: "\fe99";
 }
+.game-icon-thought-bubble:before {
+	content: "\e093";
+}
 .game-icon-three-burning-balls:before {
 	content: "\fe9a";
 }
@@ -11264,11 +11534,11 @@
 .game-icon-thrown-spear:before {
 	content: "\fea4";
 }
-.game-icon-thrust-bend:before {
-	content: "\fea5";
-}
 .game-icon-thrust:before {
 	content: "\fea6";
+}
+.game-icon-thrust-bend:before {
+	content: "\fea5";
 }
 .game-icon-thumb-down:before {
 	content: "\fea7";
@@ -11309,14 +11579,17 @@
 .game-icon-tied-scroll:before {
 	content: "\feb3";
 }
-.game-icon-tiger-head:before {
-	content: "\feb4";
-}
 .game-icon-tiger:before {
 	content: "\feb5";
 }
+.game-icon-tiger-head:before {
+	content: "\feb4";
+}
 .game-icon-tightrope:before {
 	content: "\feb6";
+}
+.game-icon-time:before {
+	content: "\e094";
 }
 .game-icon-time-bomb:before {
 	content: "\feb7";
@@ -11336,11 +11609,11 @@
 .game-icon-tipi:before {
 	content: "\febc";
 }
-.game-icon-tire-iron-cross:before {
-	content: "\febd";
-}
 .game-icon-tire-iron:before {
 	content: "\febe";
+}
+.game-icon-tire-iron-cross:before {
+	content: "\febd";
 }
 .game-icon-tire-tracks:before {
 	content: "\febf";
@@ -11366,11 +11639,11 @@
 .game-icon-tomato:before {
 	content: "\fec6";
 }
-.game-icon-tombstone-2:before {
-	content: "\fec7";
-}
 .game-icon-tombstone:before {
 	content: "\fec8";
+}
+.game-icon-tombstone-2:before {
+	content: "\fec7";
 }
 .game-icon-tongue:before {
 	content: "\fec9";
@@ -11399,11 +11672,11 @@
 .game-icon-torch:before {
 	content: "\fed1";
 }
-.game-icon-tornado-discs:before {
-	content: "\fed2";
-}
 .game-icon-tornado:before {
 	content: "\fed3";
+}
+.game-icon-tornado-discs:before {
+	content: "\fed2";
 }
 .game-icon-torpedo:before {
 	content: "\fed4";
@@ -11411,14 +11684,14 @@
 .game-icon-tortoise:before {
 	content: "\fed5";
 }
+.game-icon-totem:before {
+	content: "\fed8";
+}
 .game-icon-totem-head:before {
 	content: "\fed6";
 }
 .game-icon-totem-mask:before {
 	content: "\fed7";
-}
-.game-icon-totem:before {
-	content: "\fed8";
 }
 .game-icon-toucan:before {
 	content: "\fed9";
@@ -11564,11 +11837,11 @@
 .game-icon-triceratops-head:before {
 	content: "\ff08";
 }
-.game-icon-trident-shield:before {
-	content: "\ff09";
-}
 .game-icon-trident:before {
 	content: "\ff0a";
+}
+.game-icon-trident-shield:before {
+	content: "\ff09";
 }
 .game-icon-triforce:before {
 	content: "\ff0b";
@@ -11648,20 +11921,20 @@
 .game-icon-trophies-shelf:before {
 	content: "\ff24";
 }
-.game-icon-trophy-cup:before {
-	content: "\ff25";
-}
 .game-icon-trophy:before {
 	content: "\ff26";
+}
+.game-icon-trophy-cup:before {
+	content: "\ff25";
 }
 .game-icon-tropical-fish:before {
 	content: "\ff27";
 }
-.game-icon-trousers-2:before {
-	content: "\ff28";
-}
 .game-icon-trousers:before {
 	content: "\ff29";
+}
+.game-icon-trousers-2:before {
+	content: "\ff28";
 }
 .game-icon-trowel:before {
 	content: "\ff2a";
@@ -11672,11 +11945,11 @@
 .game-icon-truck:before {
 	content: "\ff2c";
 }
-.game-icon-trumpet-flag:before {
-	content: "\ff2d";
-}
 .game-icon-trumpet:before {
 	content: "\ff2e";
+}
+.game-icon-trumpet-flag:before {
+	content: "\ff2d";
 }
 .game-icon-trunk-mushroom:before {
 	content: "\ff2f";
@@ -11714,23 +11987,23 @@
 .game-icon-turret:before {
 	content: "\ff3a";
 }
-.game-icon-turtle-shell:before {
-	content: "\ff3b";
-}
 .game-icon-turtle:before {
 	content: "\ff3c";
 }
+.game-icon-turtle-shell:before {
+	content: "\ff3b";
+}
 .game-icon-tusks-flag:before {
 	content: "\ff3d";
+}
+.game-icon-tv:before {
+	content: "\ff40";
 }
 .game-icon-tv-remote:before {
 	content: "\ff3e";
 }
 .game-icon-tv-tower:before {
 	content: "\ff3f";
-}
-.game-icon-tv:before {
-	content: "\ff40";
 }
 .game-icon-twin-shell:before {
 	content: "\ff41";
@@ -11774,11 +12047,11 @@
 .game-icon-uluru:before {
 	content: "\ff4e";
 }
-.game-icon-umbrella-bayonet:before {
-	content: "\ff4f";
-}
 .game-icon-umbrella:before {
 	content: "\ff50";
+}
+.game-icon-umbrella-bayonet:before {
+	content: "\ff4f";
 }
 .game-icon-unbalanced:before {
 	content: "\ff51";
@@ -11792,11 +12065,11 @@
 .game-icon-underhand:before {
 	content: "\ff54";
 }
-.game-icon-underwear-shorts:before {
-	content: "\ff55";
-}
 .game-icon-underwear:before {
 	content: "\ff56";
+}
+.game-icon-underwear-shorts:before {
+	content: "\ff55";
 }
 .game-icon-unfriendly-fire:before {
 	content: "\ff57";
@@ -11882,11 +12155,11 @@
 .game-icon-velocipede:before {
 	content: "\ff72";
 }
-.game-icon-velociraptor-tracks:before {
-	content: "\ff73";
-}
 .game-icon-velociraptor:before {
 	content: "\ff74";
+}
+.game-icon-velociraptor-tracks:before {
+	content: "\ff73";
 }
 .game-icon-vending-machine:before {
 	content: "\ff75";
@@ -12050,6 +12323,9 @@
 .game-icon-war-pick:before {
 	content: "\ffaa";
 }
+.game-icon-warehouse:before {
+	content: "\e095";
+}
 .game-icon-warhammer:before {
 	content: "\ffab";
 }
@@ -12076,6 +12352,9 @@
 }
 .game-icon-watchtower:before {
 	content: "\ffb3";
+}
+.game-icon-water:before {
+	content: "\e096";
 }
 .game-icon-water-bolt:before {
 	content: "\ffb4";
@@ -12158,6 +12437,9 @@
 .game-icon-web-spit:before {
 	content: "\ffce";
 }
+.game-icon-weight:before {
+	content: "\ffd3";
+}
 .game-icon-weight-crush:before {
 	content: "\ffcf";
 }
@@ -12169,9 +12451,6 @@
 }
 .game-icon-weight-scale:before {
 	content: "\ffd2";
-}
-.game-icon-weight:before {
-	content: "\ffd3";
 }
 .game-icon-well:before {
 	content: "\ffd4";
@@ -12227,11 +12506,11 @@
 .game-icon-wildfires:before {
 	content: "\ffe5";
 }
-.game-icon-william-tell-skull:before {
-	content: "\ffe6";
-}
 .game-icon-william-tell:before {
 	content: "\ffe7";
+}
+.game-icon-william-tell-skull:before {
+	content: "\ffe6";
 }
 .game-icon-willow-tree:before {
 	content: "\ffe8";
@@ -12254,11 +12533,11 @@
 .game-icon-windmill:before {
 	content: "\ffee";
 }
-.game-icon-window-bars:before {
-	content: "\ffef";
-}
 .game-icon-window:before {
 	content: "\fff0";
+}
+.game-icon-window-bars:before {
+	content: "\ffef";
 }
 .game-icon-windpump:before {
 	content: "\fff1";
@@ -12338,11 +12617,11 @@
 .game-icon-wolf-trap:before {
 	content: "\e00a";
 }
-.game-icon-wolverine-claws-2:before {
-	content: "\e00b";
-}
 .game-icon-wolverine-claws:before {
 	content: "\e00c";
+}
+.game-icon-wolverine-claws-2:before {
+	content: "\e00b";
 }
 .game-icon-woman-elf-face:before {
 	content: "\e00d";
